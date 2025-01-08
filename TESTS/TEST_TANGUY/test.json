@@ -1,0 +1,2616 @@
+ [
+    {
+      "match_id": "389729",
+      "country_id": "3",
+      "country_name": "France",
+      "league_id": "168",
+      "league_name": "Ligue 1",
+      "match_date": "2025-01-10",
+      "match_status": "",
+      "match_time": "19:00",
+      "match_hometeam_id": "3820",
+      "match_hometeam_name": "Nantes",
+      "match_hometeam_score": "",
+      "match_awayteam_name": "Monaco",
+      "match_awayteam_id": "3817",
+      "match_awayteam_score": "",
+      "match_hometeam_halftime_score": "",
+      "match_awayteam_halftime_score": "",
+      "match_hometeam_extra_score": "",
+      "match_awayteam_extra_score": "",
+      "match_hometeam_penalty_score": "",
+      "match_awayteam_penalty_score": "",
+      "match_hometeam_ft_score": "",
+      "match_awayteam_ft_score": "",
+      "match_hometeam_system": "",
+      "match_awayteam_system": "",
+      "match_live": "0",
+      "match_round": "17",
+      "match_stadium": "Stade de la Beaujoire - Louis Fonteneau (Nantes)",
+      "match_referee": "",
+      "team_home_badge": "https://apiv3.apifootball.com/badges/3820_nantes.jpg",
+      "team_away_badge": "https://apiv3.apifootball.com/badges/3817_monaco.jpg",
+      "league_logo": "https://apiv3.apifootball.com/badges/logo_leagues/168_ligue-1.png",
+      "country_logo": "https://apiv3.apifootball.com/badges/logo_country/3_france.png",
+      "league_year": "2024/2025",
+      "fk_stage_key": "279",
+      "stage_name": "Current",
+      "goalscorer": [],
+      "substitutions": {
+        "home": [],
+        "away": []
+      },
+      "cards": [],
+      "lineup": {
+        "home": {
+          "starting_lineups": [],
+          "substitutes": [],
+          "coach": [
+            {
+              "lineup_player": "S. O'Driscoll",
+              "lineup_number": "",
+              "lineup_position": "",
+              "player_key": "1344354022"
+            }
+          ],
+          "missing_players": []
+        },
+        "away": {
+          "starting_lineups": [],
+          "substitutes": [],
+          "coach": [
+            {
+              "lineup_player": "Roberto Martínez",
+              "lineup_number": "",
+              "lineup_position": "",
+              "player_key": "351187002"
+            }
+          ],
+          "missing_players": []
+        }
+      },
+      "statistics": [],
+      "statistics_1half": []
+    },
+    {
+      "match_id": "389730",
+      "country_id": "3",
+      "country_name": "France",
+      "league_id": "168",
+      "league_name": "Ligue 1",
+      "match_date": "2025-01-10",
+      "match_status": "",
+      "match_time": "21:00",
+      "match_hometeam_id": "3797",
+      "match_hometeam_name": "Auxerre",
+      "match_hometeam_score": "",
+      "match_awayteam_name": "Lille",
+      "match_awayteam_id": "160",
+      "match_awayteam_score": "",
+      "match_hometeam_halftime_score": "",
+      "match_awayteam_halftime_score": "",
+      "match_hometeam_extra_score": "",
+      "match_awayteam_extra_score": "",
+      "match_hometeam_penalty_score": "",
+      "match_awayteam_penalty_score": "",
+      "match_hometeam_ft_score": "",
+      "match_awayteam_ft_score": "",
+      "match_hometeam_system": "",
+      "match_awayteam_system": "",
+      "match_live": "0",
+      "match_round": "17",
+      "match_stadium": "Stade de l'Abbé Deschamps (Auxerre)",
+      "match_referee": "",
+      "team_home_badge": "https://apiv3.apifootball.com/badges/3797_auxerre.jpg",
+      "team_away_badge": "https://apiv3.apifootball.com/badges/160_lille.jpg",
+      "league_logo": "https://apiv3.apifootball.com/badges/logo_leagues/168_ligue-1.png",
+      "country_logo": "https://apiv3.apifootball.com/badges/logo_country/3_france.png",
+      "league_year": "2024/2025",
+      "fk_stage_key": "279",
+      "stage_name": "Current",
+      "goalscorer": [],
+      "substitutions": {
+        "home": [],
+        "away": []
+      },
+      "cards": [],
+      "lineup": {
+        "home": {
+          "starting_lineups": [],
+          "substitutes": [],
+          "coach": [
+            {
+              "lineup_player": "N. Warnock",
+              "lineup_number": "",
+              "lineup_position": "",
+              "player_key": "197196988"
+            }
+          ],
+          "missing_players": []
+        },
+        "away": {
+          "starting_lineups": [],
+          "substitutes": [],
+          "coach": [
+            {
+              "lineup_player": "S. Watson",
+              "lineup_number": "",
+              "lineup_position": "",
+              "player_key": "1064695608"
+            }
+          ],
+          "missing_players": []
+        }
+      },
+      "statistics": [],
+      "statistics_1half": []
+    },
+    {
+      "match_id": "389731",
+      "country_id": "3",
+      "country_name": "France",
+      "league_id": "168",
+      "league_name": "Ligue 1",
+      "match_date": "2025-01-11",
+      "match_status": "",
+      "match_time": "19:00",
+      "match_hometeam_id": "182",
+      "match_hometeam_name": "Reims",
+      "match_hometeam_score": "",
+      "match_awayteam_name": "Nice",
+      "match_awayteam_id": "145",
+      "match_awayteam_score": "",
+      "match_hometeam_halftime_score": "",
+      "match_awayteam_halftime_score": "",
+      "match_hometeam_extra_score": "",
+      "match_awayteam_extra_score": "",
+      "match_hometeam_penalty_score": "",
+      "match_awayteam_penalty_score": "",
+      "match_hometeam_ft_score": "",
+      "match_awayteam_ft_score": "",
+      "match_hometeam_system": "",
+      "match_awayteam_system": "",
+      "match_live": "0",
+      "match_round": "17",
+      "match_stadium": "Stade Auguste-Delaune (Reims)",
+      "match_referee": "",
+      "team_home_badge": "https://apiv3.apifootball.com/badges/182_reims.jpg",
+      "team_away_badge": "https://apiv3.apifootball.com/badges/145_nice.jpg",
+      "league_logo": "https://apiv3.apifootball.com/badges/logo_leagues/168_ligue-1.png",
+      "country_logo": "https://apiv3.apifootball.com/badges/logo_country/3_france.png",
+      "league_year": "2024/2025",
+      "fk_stage_key": "279",
+      "stage_name": "Current",
+      "goalscorer": [],
+      "substitutions": {
+        "home": [],
+        "away": []
+      },
+      "cards": [],
+      "lineup": {
+        "home": {
+          "starting_lineups": [],
+          "substitutes": [],
+          "coach": [
+            {
+              "lineup_player": "A. Pardew",
+              "lineup_number": "",
+              "lineup_position": "",
+              "player_key": "1742217124"
+            }
+          ],
+          "missing_players": []
+        },
+        "away": {
+          "starting_lineups": [],
+          "substitutes": [],
+          "coach": [
+            {
+              "lineup_player": "D. Moore",
+              "lineup_number": "",
+              "lineup_position": "",
+              "player_key": "1544333995"
+            }
+          ],
+          "missing_players": []
+        }
+      },
+      "statistics": [],
+      "statistics_1half": []
+    },
+    {
+      "match_id": "389734",
+      "country_id": "3",
+      "country_name": "France",
+      "league_id": "168",
+      "league_name": "Ligue 1",
+      "match_date": "2025-01-11",
+      "match_status": "",
+      "match_time": "17:00",
+      "match_hometeam_id": "3823",
+      "match_hometeam_name": "Brest",
+      "match_hometeam_score": "",
+      "match_awayteam_name": "Lyon",
+      "match_awayteam_id": "3815",
+      "match_awayteam_score": "",
+      "match_hometeam_halftime_score": "",
+      "match_awayteam_halftime_score": "",
+      "match_hometeam_extra_score": "",
+      "match_awayteam_extra_score": "",
+      "match_hometeam_penalty_score": "",
+      "match_awayteam_penalty_score": "",
+      "match_hometeam_ft_score": "",
+      "match_awayteam_ft_score": "",
+      "match_hometeam_system": "",
+      "match_awayteam_system": "",
+      "match_live": "0",
+      "match_round": "17",
+      "match_stadium": "Stade Francis-Le Blé (Brest)",
+      "match_referee": "",
+      "team_home_badge": "https://apiv3.apifootball.com/badges/3823_brest.jpg",
+      "team_away_badge": "https://apiv3.apifootball.com/badges/3815_lyon.jpg",
+      "league_logo": "https://apiv3.apifootball.com/badges/logo_leagues/168_ligue-1.png",
+      "country_logo": "https://apiv3.apifootball.com/badges/logo_country/3_france.png",
+      "league_year": "2024/2025",
+      "fk_stage_key": "279",
+      "stage_name": "Current",
+      "goalscorer": [],
+      "substitutions": {
+        "home": [],
+        "away": []
+      },
+      "cards": [],
+      "lineup": {
+        "home": {
+          "starting_lineups": [],
+          "substitutes": [],
+          "coach": [
+            {
+              "lineup_player": "G. Rae",
+              "lineup_number": "",
+              "lineup_position": "",
+              "player_key": "126564518"
+            }
+          ],
+          "missing_players": []
+        },
+        "away": {
+          "starting_lineups": [],
+          "substitutes": [],
+          "coach": [
+            {
+              "lineup_player": "M. McCarthy",
+              "lineup_number": "",
+              "lineup_position": "",
+              "player_key": "1676247212"
+            }
+          ],
+          "missing_players": []
+        }
+      },
+      "statistics": [],
+      "statistics_1half": []
+    },
+    {
+      "match_id": "389736",
+      "country_id": "3",
+      "country_name": "France",
+      "league_id": "168",
+      "league_name": "Ligue 1",
+      "match_date": "2025-01-11",
+      "match_status": "",
+      "match_time": "21:00",
+      "match_hometeam_id": "91",
+      "match_hometeam_name": "Rennes",
+      "match_hometeam_score": "",
+      "match_awayteam_name": "Marseille",
+      "match_awayteam_id": "83",
+      "match_awayteam_score": "",
+      "match_hometeam_halftime_score": "",
+      "match_awayteam_halftime_score": "",
+      "match_hometeam_extra_score": "",
+      "match_awayteam_extra_score": "",
+      "match_hometeam_penalty_score": "",
+      "match_awayteam_penalty_score": "",
+      "match_hometeam_ft_score": "",
+      "match_awayteam_ft_score": "",
+      "match_hometeam_system": "",
+      "match_awayteam_system": "",
+      "match_live": "0",
+      "match_round": "17",
+      "match_stadium": "Roazhon Park (Rennes)",
+      "match_referee": "",
+      "team_home_badge": "https://apiv3.apifootball.com/badges/91_rennes.jpg",
+      "team_away_badge": "https://apiv3.apifootball.com/badges/83_marseille.jpg",
+      "league_logo": "https://apiv3.apifootball.com/badges/logo_leagues/168_ligue-1.png",
+      "country_logo": "https://apiv3.apifootball.com/badges/logo_country/3_france.png",
+      "league_year": "2024/2025",
+      "fk_stage_key": "279",
+      "stage_name": "Current",
+      "goalscorer": [],
+      "substitutions": {
+        "home": [],
+        "away": []
+      },
+      "cards": [],
+      "lineup": {
+        "home": {
+          "starting_lineups": [],
+          "substitutes": [],
+          "coach": [
+            {
+              "lineup_player": "A. McLeish",
+              "lineup_number": "",
+              "lineup_position": "",
+              "player_key": "2219945387"
+            }
+          ],
+          "missing_players": []
+        },
+        "away": {
+          "starting_lineups": [],
+          "substitutes": [],
+          "coach": [
+            {
+              "lineup_player": "C. Coleman",
+              "lineup_number": "",
+              "lineup_position": "",
+              "player_key": "641859921"
+            }
+          ],
+          "missing_players": []
+        }
+      },
+      "statistics": [],
+      "statistics_1half": []
+    },
+    {
+      "match_id": "389732",
+      "country_id": "3",
+      "country_name": "France",
+      "league_id": "168",
+      "league_name": "Ligue 1",
+      "match_date": "2025-01-12",
+      "match_status": "",
+      "match_time": "15:00",
+      "match_hometeam_id": "3804",
+      "match_hometeam_name": "Le Havre",
+      "match_hometeam_score": "",
+      "match_awayteam_name": "Lens",
+      "match_awayteam_id": "3821",
+      "match_awayteam_score": "",
+      "match_hometeam_halftime_score": "",
+      "match_awayteam_halftime_score": "",
+      "match_hometeam_extra_score": "",
+      "match_awayteam_extra_score": "",
+      "match_hometeam_penalty_score": "",
+      "match_awayteam_penalty_score": "",
+      "match_hometeam_ft_score": "",
+      "match_awayteam_ft_score": "",
+      "match_hometeam_system": "",
+      "match_awayteam_system": "",
+      "match_live": "0",
+      "match_round": "17",
+      "match_stadium": "Stade Océane (Le Havre)",
+      "match_referee": "",
+      "team_home_badge": "https://apiv3.apifootball.com/badges/3804_le-havre.jpg",
+      "team_away_badge": "https://apiv3.apifootball.com/badges/3821_lens.jpg",
+      "league_logo": "https://apiv3.apifootball.com/badges/logo_leagues/168_ligue-1.png",
+      "country_logo": "https://apiv3.apifootball.com/badges/logo_country/3_france.png",
+      "league_year": "2024/2025",
+      "fk_stage_key": "279",
+      "stage_name": "Current",
+      "goalscorer": [],
+      "substitutions": {
+        "home": [],
+        "away": []
+      },
+      "cards": [],
+      "lineup": {
+        "home": {
+          "starting_lineups": [],
+          "substitutes": [],
+          "coach": [
+            {
+              "lineup_player": "O. Coyle",
+              "lineup_number": "",
+              "lineup_position": "",
+              "player_key": "3392530806"
+            }
+          ],
+          "missing_players": []
+        },
+        "away": {
+          "starting_lineups": [],
+          "substitutes": [],
+          "coach": [
+            {
+              "lineup_player": "J. Kennedy",
+              "lineup_number": "",
+              "lineup_position": "",
+              "player_key": "2168432519"
+            }
+          ],
+          "missing_players": []
+        }
+      },
+      "statistics": [],
+      "statistics_1half": []
+    },
+    {
+      "match_id": "389733",
+      "country_id": "3",
+      "country_name": "France",
+      "league_id": "168",
+      "league_name": "Ligue 1",
+      "match_date": "2025-01-12",
+      "match_status": "",
+      "match_time": "17:15",
+      "match_hometeam_id": "3819",
+      "match_hometeam_name": "Montpellier",
+      "match_hometeam_score": "",
+      "match_awayteam_name": "Angers",
+      "match_awayteam_id": "3827",
+      "match_awayteam_score": "",
+      "match_hometeam_halftime_score": "",
+      "match_awayteam_halftime_score": "",
+      "match_hometeam_extra_score": "",
+      "match_awayteam_extra_score": "",
+      "match_hometeam_penalty_score": "",
+      "match_awayteam_penalty_score": "",
+      "match_hometeam_ft_score": "",
+      "match_awayteam_ft_score": "",
+      "match_hometeam_system": "",
+      "match_awayteam_system": "",
+      "match_live": "0",
+      "match_round": "17",
+      "match_stadium": "Stade de la Mosson-Mondial 98 (Montpellier)",
+      "match_referee": "",
+      "team_home_badge": "https://apiv3.apifootball.com/badges/3819_montpellier.jpg",
+      "team_away_badge": "https://apiv3.apifootball.com/badges/3827_angers.jpg",
+      "league_logo": "https://apiv3.apifootball.com/badges/logo_leagues/168_ligue-1.png",
+      "country_logo": "https://apiv3.apifootball.com/badges/logo_country/3_france.png",
+      "league_year": "2024/2025",
+      "fk_stage_key": "279",
+      "stage_name": "Current",
+      "goalscorer": [],
+      "substitutions": {
+        "home": [],
+        "away": []
+      },
+      "cards": [],
+      "lineup": {
+        "home": {
+          "starting_lineups": [],
+          "substitutes": [],
+          "coach": [
+            {
+              "lineup_player": "J. McCombe",
+              "lineup_number": "",
+              "lineup_position": "",
+              "player_key": "2475406678"
+            }
+          ],
+          "missing_players": []
+        },
+        "away": {
+          "starting_lineups": [],
+          "substitutes": [],
+          "coach": [
+            {
+              "lineup_player": "S. Coppell",
+              "lineup_number": "",
+              "lineup_position": "",
+              "player_key": "1852724111"
+            }
+          ],
+          "missing_players": []
+        }
+      },
+      "statistics": [],
+      "statistics_1half": []
+    },
+    {
+      "match_id": "389735",
+      "country_id": "3",
+      "country_name": "France",
+      "league_id": "168",
+      "league_name": "Ligue 1",
+      "match_date": "2025-01-12",
+      "match_status": "",
+      "match_time": "20:45",
+      "match_hometeam_id": "100",
+      "match_hometeam_name": "PSG",
+      "match_hometeam_score": "",
+      "match_awayteam_name": "St Etienne",
+      "match_awayteam_id": "3826",
+      "match_awayteam_score": "",
+      "match_hometeam_halftime_score": "",
+      "match_awayteam_halftime_score": "",
+      "match_hometeam_extra_score": "",
+      "match_awayteam_extra_score": "",
+      "match_hometeam_penalty_score": "",
+      "match_awayteam_penalty_score": "",
+      "match_hometeam_ft_score": "",
+      "match_awayteam_ft_score": "",
+      "match_hometeam_system": "",
+      "match_awayteam_system": "",
+      "match_live": "0",
+      "match_round": "17",
+      "match_stadium": "Parc des Princes (Paris)",
+      "match_referee": "",
+      "team_home_badge": "https://apiv3.apifootball.com/badges/100_psg.jpg",
+      "team_away_badge": "https://apiv3.apifootball.com/badges/3826_saint-etienne.jpg",
+      "league_logo": "https://apiv3.apifootball.com/badges/logo_leagues/168_ligue-1.png",
+      "country_logo": "https://apiv3.apifootball.com/badges/logo_country/3_france.png",
+      "league_year": "2024/2025",
+      "fk_stage_key": "279",
+      "stage_name": "Current",
+      "goalscorer": [],
+      "substitutions": {
+        "home": [],
+        "away": []
+      },
+      "cards": [],
+      "lineup": {
+        "home": {
+          "starting_lineups": [],
+          "substitutes": [],
+          "coach": [
+            {
+              "lineup_player": "P. Jewell",
+              "lineup_number": "",
+              "lineup_position": "",
+              "player_key": "283062066"
+            }
+          ],
+          "missing_players": []
+        },
+        "away": {
+          "starting_lineups": [],
+          "substitutes": [],
+          "coach": [
+            {
+              "lineup_player": "C. Fletcher",
+              "lineup_number": "",
+              "lineup_position": "",
+              "player_key": "4096305502"
+            }
+          ],
+          "missing_players": []
+        }
+      },
+      "statistics": [],
+      "statistics_1half": []
+    },
+    {
+      "match_id": "389728",
+      "country_id": "3",
+      "country_name": "France",
+      "league_id": "168",
+      "league_name": "Ligue 1",
+      "match_date": "2025-01-12",
+      "match_status": "",
+      "match_time": "17:15",
+      "match_hometeam_id": "3794",
+      "match_hometeam_name": "Toulouse",
+      "match_hometeam_score": "",
+      "match_awayteam_name": "Strasbourg",
+      "match_awayteam_id": "3818",
+      "match_awayteam_score": "",
+      "match_hometeam_halftime_score": "",
+      "match_awayteam_halftime_score": "",
+      "match_hometeam_extra_score": "",
+      "match_awayteam_extra_score": "",
+      "match_hometeam_penalty_score": "",
+      "match_awayteam_penalty_score": "",
+      "match_hometeam_ft_score": "",
+      "match_awayteam_ft_score": "",
+      "match_hometeam_system": "",
+      "match_awayteam_system": "",
+      "match_live": "0",
+      "match_round": "17",
+      "match_stadium": "Stadium de Toulouse (Toulouse)",
+      "match_referee": "",
+      "team_home_badge": "https://apiv3.apifootball.com/badges/3794_toulouse.jpg",
+      "team_away_badge": "https://apiv3.apifootball.com/badges/3818_strasbourg.jpg",
+      "league_logo": "https://apiv3.apifootball.com/badges/logo_leagues/168_ligue-1.png",
+      "country_logo": "https://apiv3.apifootball.com/badges/logo_country/3_france.png",
+      "league_year": "2024/2025",
+      "fk_stage_key": "279",
+      "stage_name": "Current",
+      "goalscorer": [],
+      "substitutions": {
+        "home": [],
+        "away": []
+      },
+      "cards": [],
+      "lineup": {
+        "home": {
+          "starting_lineups": [],
+          "substitutes": [],
+          "coach": [
+            {
+              "lineup_player": "D. Wright",
+              "lineup_number": "",
+              "lineup_position": "",
+              "player_key": "1780564590"
+            }
+          ],
+          "missing_players": []
+        },
+        "away": {
+          "starting_lineups": [],
+          "substitutes": [],
+          "coach": [
+            {
+              "lineup_player": "D. Stewart",
+              "lineup_number": "",
+              "lineup_position": "",
+              "player_key": "2542554360"
+            }
+          ],
+          "missing_players": []
+        }
+      },
+      "statistics": [],
+      "statistics_1half": []
+    },
+    {
+      "match_id": "389739",
+      "country_id": "3",
+      "country_name": "France",
+      "league_id": "168",
+      "league_name": "Ligue 1",
+      "match_date": "2025-01-19",
+      "match_status": "",
+      "match_time": "00:00",
+      "match_hometeam_id": "160",
+      "match_hometeam_name": "Lille",
+      "match_hometeam_score": "",
+      "match_awayteam_name": "Nice",
+      "match_awayteam_id": "145",
+      "match_awayteam_score": "",
+      "match_hometeam_halftime_score": "",
+      "match_awayteam_halftime_score": "",
+      "match_hometeam_extra_score": "",
+      "match_awayteam_extra_score": "",
+      "match_hometeam_penalty_score": "",
+      "match_awayteam_penalty_score": "",
+      "match_hometeam_ft_score": "",
+      "match_awayteam_ft_score": "",
+      "match_hometeam_system": "",
+      "match_awayteam_system": "",
+      "match_live": "0",
+      "match_round": "18",
+      "match_stadium": "Decathlon Arena - Stade Pierre-Mauroy (Villeneuve d'Ascq)",
+      "match_referee": "",
+      "team_home_badge": "https://apiv3.apifootball.com/badges/160_lille.jpg",
+      "team_away_badge": "https://apiv3.apifootball.com/badges/145_nice.jpg",
+      "league_logo": "https://apiv3.apifootball.com/badges/logo_leagues/168_ligue-1.png",
+      "country_logo": "https://apiv3.apifootball.com/badges/logo_country/3_france.png",
+      "league_year": "2024/2025",
+      "fk_stage_key": "279",
+      "stage_name": "Current",
+      "goalscorer": [],
+      "substitutions": {
+        "home": [],
+        "away": []
+      },
+      "cards": [],
+      "lineup": {
+        "home": {
+          "starting_lineups": [],
+          "substitutes": [],
+          "coach": [
+            {
+              "lineup_player": "S. Coppell",
+              "lineup_number": "",
+              "lineup_position": "",
+              "player_key": "1852724111"
+            }
+          ],
+          "missing_players": []
+        },
+        "away": {
+          "starting_lineups": [],
+          "substitutes": [],
+          "coach": [
+            {
+              "lineup_player": "P. Jewell",
+              "lineup_number": "",
+              "lineup_position": "",
+              "player_key": "283062066"
+            }
+          ],
+          "missing_players": []
+        }
+      },
+      "statistics": [],
+      "statistics_1half": []
+    },
+    {
+      "match_id": "389745",
+      "country_id": "3",
+      "country_name": "France",
+      "league_id": "168",
+      "league_name": "Ligue 1",
+      "match_date": "2025-01-19",
+      "match_status": "",
+      "match_time": "00:00",
+      "match_hometeam_id": "91",
+      "match_hometeam_name": "Rennes",
+      "match_hometeam_score": "",
+      "match_awayteam_name": "Brest",
+      "match_awayteam_id": "3823",
+      "match_awayteam_score": "",
+      "match_hometeam_halftime_score": "",
+      "match_awayteam_halftime_score": "",
+      "match_hometeam_extra_score": "",
+      "match_awayteam_extra_score": "",
+      "match_hometeam_penalty_score": "",
+      "match_awayteam_penalty_score": "",
+      "match_hometeam_ft_score": "",
+      "match_awayteam_ft_score": "",
+      "match_hometeam_system": "",
+      "match_awayteam_system": "",
+      "match_live": "0",
+      "match_round": "18",
+      "match_stadium": "Roazhon Park (Rennes)",
+      "match_referee": "",
+      "team_home_badge": "https://apiv3.apifootball.com/badges/91_rennes.jpg",
+      "team_away_badge": "https://apiv3.apifootball.com/badges/3823_brest.jpg",
+      "league_logo": "https://apiv3.apifootball.com/badges/logo_leagues/168_ligue-1.png",
+      "country_logo": "https://apiv3.apifootball.com/badges/logo_country/3_france.png",
+      "league_year": "2024/2025",
+      "fk_stage_key": "279",
+      "stage_name": "Current",
+      "goalscorer": [],
+      "substitutions": {
+        "home": [],
+        "away": []
+      },
+      "cards": [],
+      "lineup": {
+        "home": {
+          "starting_lineups": [],
+          "substitutes": [],
+          "coach": [
+            {
+              "lineup_player": "R. Edwards",
+              "lineup_number": "",
+              "lineup_position": "",
+              "player_key": "4079026562"
+            }
+          ],
+          "missing_players": []
+        },
+        "away": {
+          "starting_lineups": [],
+          "substitutes": [],
+          "coach": [
+            {
+              "lineup_player": "D. Wright",
+              "lineup_number": "",
+              "lineup_position": "",
+              "player_key": "1780564590"
+            }
+          ],
+          "missing_players": []
+        }
+      },
+      "statistics": [],
+      "statistics_1half": []
+    },
+    {
+      "match_id": "389744",
+      "country_id": "3",
+      "country_name": "France",
+      "league_id": "168",
+      "league_name": "Ligue 1",
+      "match_date": "2025-01-19",
+      "match_status": "",
+      "match_time": "00:00",
+      "match_hometeam_id": "3827",
+      "match_hometeam_name": "Angers",
+      "match_hometeam_score": "",
+      "match_awayteam_name": "Auxerre",
+      "match_awayteam_id": "3797",
+      "match_awayteam_score": "",
+      "match_hometeam_halftime_score": "",
+      "match_awayteam_halftime_score": "",
+      "match_hometeam_extra_score": "",
+      "match_awayteam_extra_score": "",
+      "match_hometeam_penalty_score": "",
+      "match_awayteam_penalty_score": "",
+      "match_hometeam_ft_score": "",
+      "match_awayteam_ft_score": "",
+      "match_hometeam_system": "",
+      "match_awayteam_system": "",
+      "match_live": "0",
+      "match_round": "18",
+      "match_stadium": "Stade Raymond Kopa (Angers)",
+      "match_referee": "",
+      "team_home_badge": "https://apiv3.apifootball.com/badges/3827_angers.jpg",
+      "team_away_badge": "https://apiv3.apifootball.com/badges/3797_auxerre.jpg",
+      "league_logo": "https://apiv3.apifootball.com/badges/logo_leagues/168_ligue-1.png",
+      "country_logo": "https://apiv3.apifootball.com/badges/logo_country/3_france.png",
+      "league_year": "2024/2025",
+      "fk_stage_key": "279",
+      "stage_name": "Current",
+      "goalscorer": [],
+      "substitutions": {
+        "home": [],
+        "away": []
+      },
+      "cards": [],
+      "lineup": {
+        "home": {
+          "starting_lineups": [],
+          "substitutes": [],
+          "coach": [
+            {
+              "lineup_player": "C. Coleman",
+              "lineup_number": "",
+              "lineup_position": "",
+              "player_key": "641859921"
+            }
+          ],
+          "missing_players": []
+        },
+        "away": {
+          "starting_lineups": [],
+          "substitutes": [],
+          "coach": [
+            {
+              "lineup_player": "N. Warnock",
+              "lineup_number": "",
+              "lineup_position": "",
+              "player_key": "197196988"
+            }
+          ],
+          "missing_players": []
+        }
+      },
+      "statistics": [],
+      "statistics_1half": []
+    },
+    {
+      "match_id": "389743",
+      "country_id": "3",
+      "country_name": "France",
+      "league_id": "168",
+      "league_name": "Ligue 1",
+      "match_date": "2025-01-19",
+      "match_status": "",
+      "match_time": "00:00",
+      "match_hometeam_id": "182",
+      "match_hometeam_name": "Reims",
+      "match_hometeam_score": "",
+      "match_awayteam_name": "Le Havre",
+      "match_awayteam_id": "3804",
+      "match_awayteam_score": "",
+      "match_hometeam_halftime_score": "",
+      "match_awayteam_halftime_score": "",
+      "match_hometeam_extra_score": "",
+      "match_awayteam_extra_score": "",
+      "match_hometeam_penalty_score": "",
+      "match_awayteam_penalty_score": "",
+      "match_hometeam_ft_score": "",
+      "match_awayteam_ft_score": "",
+      "match_hometeam_system": "",
+      "match_awayteam_system": "",
+      "match_live": "0",
+      "match_round": "18",
+      "match_stadium": "Stade Auguste-Delaune (Reims)",
+      "match_referee": "",
+      "team_home_badge": "https://apiv3.apifootball.com/badges/182_reims.jpg",
+      "team_away_badge": "https://apiv3.apifootball.com/badges/3804_le-havre.jpg",
+      "league_logo": "https://apiv3.apifootball.com/badges/logo_leagues/168_ligue-1.png",
+      "country_logo": "https://apiv3.apifootball.com/badges/logo_country/3_france.png",
+      "league_year": "2024/2025",
+      "fk_stage_key": "279",
+      "stage_name": "Current",
+      "goalscorer": [],
+      "substitutions": {
+        "home": [],
+        "away": []
+      },
+      "cards": [],
+      "lineup": {
+        "home": {
+          "starting_lineups": [],
+          "substitutes": [],
+          "coach": [
+            {
+              "lineup_player": "J. Kennedy",
+              "lineup_number": "",
+              "lineup_position": "",
+              "player_key": "2168432519"
+            }
+          ],
+          "missing_players": []
+        },
+        "away": {
+          "starting_lineups": [],
+          "substitutes": [],
+          "coach": [
+            {
+              "lineup_player": "S. St. Ledger",
+              "lineup_number": "",
+              "lineup_position": "",
+              "player_key": "720629778"
+            }
+          ],
+          "missing_players": []
+        }
+      },
+      "statistics": [],
+      "statistics_1half": []
+    },
+    {
+      "match_id": "389742",
+      "country_id": "3",
+      "country_name": "France",
+      "league_id": "168",
+      "league_name": "Ligue 1",
+      "match_date": "2025-01-19",
+      "match_status": "",
+      "match_time": "00:00",
+      "match_hometeam_id": "3819",
+      "match_hometeam_name": "Montpellier",
+      "match_hometeam_score": "",
+      "match_awayteam_name": "Monaco",
+      "match_awayteam_id": "3817",
+      "match_awayteam_score": "",
+      "match_hometeam_halftime_score": "",
+      "match_awayteam_halftime_score": "",
+      "match_hometeam_extra_score": "",
+      "match_awayteam_extra_score": "",
+      "match_hometeam_penalty_score": "",
+      "match_awayteam_penalty_score": "",
+      "match_hometeam_ft_score": "",
+      "match_awayteam_ft_score": "",
+      "match_hometeam_system": "",
+      "match_awayteam_system": "",
+      "match_live": "0",
+      "match_round": "18",
+      "match_stadium": "Stade de la Mosson-Mondial 98 (Montpellier)",
+      "match_referee": "",
+      "team_home_badge": "https://apiv3.apifootball.com/badges/3819_montpellier.jpg",
+      "team_away_badge": "https://apiv3.apifootball.com/badges/3817_monaco.jpg",
+      "league_logo": "https://apiv3.apifootball.com/badges/logo_leagues/168_ligue-1.png",
+      "country_logo": "https://apiv3.apifootball.com/badges/logo_country/3_france.png",
+      "league_year": "2024/2025",
+      "fk_stage_key": "279",
+      "stage_name": "Current",
+      "goalscorer": [],
+      "substitutions": {
+        "home": [],
+        "away": []
+      },
+      "cards": [],
+      "lineup": {
+        "home": {
+          "starting_lineups": [],
+          "substitutes": [],
+          "coach": [],
+          "missing_players": []
+        },
+        "away": {
+          "starting_lineups": [],
+          "substitutes": [],
+          "coach": [
+            {
+              "lineup_player": "A. McLeish",
+              "lineup_number": "",
+              "lineup_position": "",
+              "player_key": "2219945387"
+            }
+          ],
+          "missing_players": []
+        }
+      },
+      "statistics": [],
+      "statistics_1half": []
+    },
+    {
+      "match_id": "389741",
+      "country_id": "3",
+      "country_name": "France",
+      "league_id": "168",
+      "league_name": "Ligue 1",
+      "match_date": "2025-01-19",
+      "match_status": "",
+      "match_time": "00:00",
+      "match_hometeam_id": "3826",
+      "match_hometeam_name": "Saint-Etienne",
+      "match_hometeam_score": "",
+      "match_awayteam_name": "Nantes",
+      "match_awayteam_id": "3820",
+      "match_awayteam_score": "",
+      "match_hometeam_halftime_score": "",
+      "match_awayteam_halftime_score": "",
+      "match_hometeam_extra_score": "",
+      "match_awayteam_extra_score": "",
+      "match_hometeam_penalty_score": "",
+      "match_awayteam_penalty_score": "",
+      "match_hometeam_ft_score": "",
+      "match_awayteam_ft_score": "",
+      "match_hometeam_system": "",
+      "match_awayteam_system": "",
+      "match_live": "0",
+      "match_round": "18",
+      "match_stadium": "Stade Geoffroy-Guichard (Saint-Ètienne)",
+      "match_referee": "",
+      "team_home_badge": "https://apiv3.apifootball.com/badges/3826_saint-etienne.jpg",
+      "team_away_badge": "https://apiv3.apifootball.com/badges/3820_nantes.jpg",
+      "league_logo": "https://apiv3.apifootball.com/badges/logo_leagues/168_ligue-1.png",
+      "country_logo": "https://apiv3.apifootball.com/badges/logo_country/3_france.png",
+      "league_year": "2024/2025",
+      "fk_stage_key": "279",
+      "stage_name": "Current",
+      "goalscorer": [],
+      "substitutions": {
+        "home": [],
+        "away": []
+      },
+      "cards": [],
+      "lineup": {
+        "home": {
+          "starting_lineups": [],
+          "substitutes": [],
+          "coach": [
+            {
+              "lineup_player": "R. Larrieu",
+              "lineup_number": "",
+              "lineup_position": "",
+              "player_key": "1638058372"
+            }
+          ],
+          "missing_players": []
+        },
+        "away": {
+          "starting_lineups": [],
+          "substitutes": [],
+          "coach": [
+            {
+              "lineup_player": "A. Pardew",
+              "lineup_number": "",
+              "lineup_position": "",
+              "player_key": "1742217124"
+            }
+          ],
+          "missing_players": []
+        }
+      },
+      "statistics": [],
+      "statistics_1half": []
+    },
+    {
+      "match_id": "389740",
+      "country_id": "3",
+      "country_name": "France",
+      "league_id": "168",
+      "league_name": "Ligue 1",
+      "match_date": "2025-01-19",
+      "match_status": "",
+      "match_time": "00:00",
+      "match_hometeam_id": "3815",
+      "match_hometeam_name": "Lyon",
+      "match_hometeam_score": "",
+      "match_awayteam_name": "Toulouse",
+      "match_awayteam_id": "3794",
+      "match_awayteam_score": "",
+      "match_hometeam_halftime_score": "",
+      "match_awayteam_halftime_score": "",
+      "match_hometeam_extra_score": "",
+      "match_awayteam_extra_score": "",
+      "match_hometeam_penalty_score": "",
+      "match_awayteam_penalty_score": "",
+      "match_hometeam_ft_score": "",
+      "match_awayteam_ft_score": "",
+      "match_hometeam_system": "",
+      "match_awayteam_system": "",
+      "match_live": "0",
+      "match_round": "18",
+      "match_stadium": "Groupama Stadium (Décines-Charpieu)",
+      "match_referee": "",
+      "team_home_badge": "https://apiv3.apifootball.com/badges/3815_lyon.jpg",
+      "team_away_badge": "https://apiv3.apifootball.com/badges/3794_toulouse.jpg",
+      "league_logo": "https://apiv3.apifootball.com/badges/logo_leagues/168_ligue-1.png",
+      "country_logo": "https://apiv3.apifootball.com/badges/logo_country/3_france.png",
+      "league_year": "2024/2025",
+      "fk_stage_key": "279",
+      "stage_name": "Current",
+      "goalscorer": [],
+      "substitutions": {
+        "home": [],
+        "away": []
+      },
+      "cards": [],
+      "lineup": {
+        "home": {
+          "starting_lineups": [],
+          "substitutes": [],
+          "coach": [
+            {
+              "lineup_player": "D. Stewart",
+              "lineup_number": "",
+              "lineup_position": "",
+              "player_key": "2542554360"
+            }
+          ],
+          "missing_players": []
+        },
+        "away": {
+          "starting_lineups": [],
+          "substitutes": [],
+          "coach": [
+            {
+              "lineup_player": "G. Rae",
+              "lineup_number": "",
+              "lineup_position": "",
+              "player_key": "126564518"
+            }
+          ],
+          "missing_players": []
+        }
+      },
+      "statistics": [],
+      "statistics_1half": []
+    },
+    {
+      "match_id": "389738",
+      "country_id": "3",
+      "country_name": "France",
+      "league_id": "168",
+      "league_name": "Ligue 1",
+      "match_date": "2025-01-19",
+      "match_status": "",
+      "match_time": "00:00",
+      "match_hometeam_id": "3821",
+      "match_hometeam_name": "Lens",
+      "match_hometeam_score": "",
+      "match_awayteam_name": "PSG",
+      "match_awayteam_id": "100",
+      "match_awayteam_score": "",
+      "match_hometeam_halftime_score": "",
+      "match_awayteam_halftime_score": "",
+      "match_hometeam_extra_score": "",
+      "match_awayteam_extra_score": "",
+      "match_hometeam_penalty_score": "",
+      "match_awayteam_penalty_score": "",
+      "match_hometeam_ft_score": "",
+      "match_awayteam_ft_score": "",
+      "match_hometeam_system": "",
+      "match_awayteam_system": "",
+      "match_live": "0",
+      "match_round": "18",
+      "match_stadium": "Stade Bollaert-Delelis (Lens)",
+      "match_referee": "",
+      "team_home_badge": "https://apiv3.apifootball.com/badges/3821_lens.jpg",
+      "team_away_badge": "https://apiv3.apifootball.com/badges/100_psg.jpg",
+      "league_logo": "https://apiv3.apifootball.com/badges/logo_leagues/168_ligue-1.png",
+      "country_logo": "https://apiv3.apifootball.com/badges/logo_country/3_france.png",
+      "league_year": "2024/2025",
+      "fk_stage_key": "279",
+      "stage_name": "Current",
+      "goalscorer": [],
+      "substitutions": {
+        "home": [],
+        "away": []
+      },
+      "cards": [],
+      "lineup": {
+        "home": {
+          "starting_lineups": [],
+          "substitutes": [],
+          "coach": [
+            {
+              "lineup_player": "S. Watson",
+              "lineup_number": "",
+              "lineup_position": "",
+              "player_key": "1064695608"
+            }
+          ],
+          "missing_players": []
+        },
+        "away": {
+          "starting_lineups": [],
+          "substitutes": [],
+          "coach": [
+            {
+              "lineup_player": "S. O'Driscoll",
+              "lineup_number": "",
+              "lineup_position": "",
+              "player_key": "1344354022"
+            }
+          ],
+          "missing_players": []
+        }
+      },
+      "statistics": [],
+      "statistics_1half": []
+    },
+    {
+      "match_id": "389737",
+      "country_id": "3",
+      "country_name": "France",
+      "league_id": "168",
+      "league_name": "Ligue 1",
+      "match_date": "2025-01-19",
+      "match_status": "",
+      "match_time": "00:00",
+      "match_hometeam_id": "83",
+      "match_hometeam_name": "Marseille",
+      "match_hometeam_score": "",
+      "match_awayteam_name": "Strasbourg",
+      "match_awayteam_id": "3818",
+      "match_awayteam_score": "",
+      "match_hometeam_halftime_score": "",
+      "match_awayteam_halftime_score": "",
+      "match_hometeam_extra_score": "",
+      "match_awayteam_extra_score": "",
+      "match_hometeam_penalty_score": "",
+      "match_awayteam_penalty_score": "",
+      "match_hometeam_ft_score": "",
+      "match_awayteam_ft_score": "",
+      "match_hometeam_system": "",
+      "match_awayteam_system": "",
+      "match_live": "0",
+      "match_round": "18",
+      "match_stadium": "Orange Vélodrome (Marseille)",
+      "match_referee": "",
+      "team_home_badge": "https://apiv3.apifootball.com/badges/83_marseille.jpg",
+      "team_away_badge": "https://apiv3.apifootball.com/badges/3818_strasbourg.jpg",
+      "league_logo": "https://apiv3.apifootball.com/badges/logo_leagues/168_ligue-1.png",
+      "country_logo": "https://apiv3.apifootball.com/badges/logo_country/3_france.png",
+      "league_year": "2024/2025",
+      "fk_stage_key": "279",
+      "stage_name": "Current",
+      "goalscorer": [],
+      "substitutions": {
+        "home": [],
+        "away": []
+      },
+      "cards": [],
+      "lineup": {
+        "home": {
+          "starting_lineups": [],
+          "substitutes": [],
+          "coach": [
+            {
+              "lineup_player": "M. McCarthy",
+              "lineup_number": "",
+              "lineup_position": "",
+              "player_key": "1676247212"
+            }
+          ],
+          "missing_players": []
+        },
+        "away": {
+          "starting_lineups": [],
+          "substitutes": [],
+          "coach": [
+            {
+              "lineup_player": "O. Coyle",
+              "lineup_number": "",
+              "lineup_position": "",
+              "player_key": "3392530806"
+            }
+          ],
+          "missing_players": []
+        }
+      },
+      "statistics": [],
+      "statistics_1half": []
+    },
+    {
+      "match_id": "389746",
+      "country_id": "3",
+      "country_name": "France",
+      "league_id": "168",
+      "league_name": "Ligue 1",
+      "match_date": "2025-01-26",
+      "match_status": "",
+      "match_time": "00:00",
+      "match_hometeam_id": "3818",
+      "match_hometeam_name": "Strasbourg",
+      "match_hometeam_score": "",
+      "match_awayteam_name": "Lille",
+      "match_awayteam_id": "160",
+      "match_awayteam_score": "",
+      "match_hometeam_halftime_score": "",
+      "match_awayteam_halftime_score": "",
+      "match_hometeam_extra_score": "",
+      "match_awayteam_extra_score": "",
+      "match_hometeam_penalty_score": "",
+      "match_awayteam_penalty_score": "",
+      "match_hometeam_ft_score": "",
+      "match_awayteam_ft_score": "",
+      "match_hometeam_system": "",
+      "match_awayteam_system": "",
+      "match_live": "0",
+      "match_round": "19",
+      "match_stadium": "Stade de la Meinau (Strasbourg)",
+      "match_referee": "",
+      "team_home_badge": "https://apiv3.apifootball.com/badges/3818_strasbourg.jpg",
+      "team_away_badge": "https://apiv3.apifootball.com/badges/160_lille.jpg",
+      "league_logo": "https://apiv3.apifootball.com/badges/logo_leagues/168_ligue-1.png",
+      "country_logo": "https://apiv3.apifootball.com/badges/logo_country/3_france.png",
+      "league_year": "2024/2025",
+      "fk_stage_key": "279",
+      "stage_name": "Current",
+      "goalscorer": [],
+      "substitutions": {
+        "home": [],
+        "away": []
+      },
+      "cards": [],
+      "lineup": {
+        "home": {
+          "starting_lineups": [],
+          "substitutes": [],
+          "coach": [
+            {
+              "lineup_player": "D. Moore",
+              "lineup_number": "",
+              "lineup_position": "",
+              "player_key": "1544333995"
+            }
+          ],
+          "missing_players": []
+        },
+        "away": {
+          "starting_lineups": [],
+          "substitutes": [],
+          "coach": [
+            {
+              "lineup_player": "C. Morgan",
+              "lineup_number": "",
+              "lineup_position": "",
+              "player_key": "2677347447"
+            }
+          ],
+          "missing_players": []
+        }
+      },
+      "statistics": [],
+      "statistics_1half": []
+    },
+    {
+      "match_id": "389754",
+      "country_id": "3",
+      "country_name": "France",
+      "league_id": "168",
+      "league_name": "Ligue 1",
+      "match_date": "2025-01-26",
+      "match_status": "",
+      "match_time": "00:00",
+      "match_hometeam_id": "145",
+      "match_hometeam_name": "Nice",
+      "match_hometeam_score": "",
+      "match_awayteam_name": "Marseille",
+      "match_awayteam_id": "83",
+      "match_awayteam_score": "",
+      "match_hometeam_halftime_score": "",
+      "match_awayteam_halftime_score": "",
+      "match_hometeam_extra_score": "",
+      "match_awayteam_extra_score": "",
+      "match_hometeam_penalty_score": "",
+      "match_awayteam_penalty_score": "",
+      "match_hometeam_ft_score": "",
+      "match_awayteam_ft_score": "",
+      "match_hometeam_system": "",
+      "match_awayteam_system": "",
+      "match_live": "0",
+      "match_round": "19",
+      "match_stadium": "Allianz Riviera (Nice)",
+      "match_referee": "",
+      "team_home_badge": "https://apiv3.apifootball.com/badges/145_nice.jpg",
+      "team_away_badge": "https://apiv3.apifootball.com/badges/83_marseille.jpg",
+      "league_logo": "https://apiv3.apifootball.com/badges/logo_leagues/168_ligue-1.png",
+      "country_logo": "https://apiv3.apifootball.com/badges/logo_country/3_france.png",
+      "league_year": "2024/2025",
+      "fk_stage_key": "279",
+      "stage_name": "Current",
+      "goalscorer": [],
+      "substitutions": {
+        "home": [],
+        "away": []
+      },
+      "cards": [],
+      "lineup": {
+        "home": {
+          "starting_lineups": [],
+          "substitutes": [],
+          "coach": [
+            {
+              "lineup_player": "C. Coleman",
+              "lineup_number": "",
+              "lineup_position": "",
+              "player_key": "641859921"
+            }
+          ],
+          "missing_players": []
+        },
+        "away": {
+          "starting_lineups": [],
+          "substitutes": [],
+          "coach": [
+            {
+              "lineup_player": "R. Larrieu",
+              "lineup_number": "",
+              "lineup_position": "",
+              "player_key": "1638058372"
+            }
+          ],
+          "missing_players": []
+        }
+      },
+      "statistics": [],
+      "statistics_1half": []
+    },
+    {
+      "match_id": "389753",
+      "country_id": "3",
+      "country_name": "France",
+      "league_id": "168",
+      "league_name": "Ligue 1",
+      "match_date": "2025-01-26",
+      "match_status": "",
+      "match_time": "00:00",
+      "match_hometeam_id": "100",
+      "match_hometeam_name": "PSG",
+      "match_hometeam_score": "",
+      "match_awayteam_name": "Reims",
+      "match_awayteam_id": "182",
+      "match_awayteam_score": "",
+      "match_hometeam_halftime_score": "",
+      "match_awayteam_halftime_score": "",
+      "match_hometeam_extra_score": "",
+      "match_awayteam_extra_score": "",
+      "match_hometeam_penalty_score": "",
+      "match_awayteam_penalty_score": "",
+      "match_hometeam_ft_score": "",
+      "match_awayteam_ft_score": "",
+      "match_hometeam_system": "",
+      "match_awayteam_system": "",
+      "match_live": "0",
+      "match_round": "19",
+      "match_stadium": "Parc des Princes (Paris)",
+      "match_referee": "",
+      "team_home_badge": "https://apiv3.apifootball.com/badges/100_psg.jpg",
+      "team_away_badge": "https://apiv3.apifootball.com/badges/182_reims.jpg",
+      "league_logo": "https://apiv3.apifootball.com/badges/logo_leagues/168_ligue-1.png",
+      "country_logo": "https://apiv3.apifootball.com/badges/logo_country/3_france.png",
+      "league_year": "2024/2025",
+      "fk_stage_key": "279",
+      "stage_name": "Current",
+      "goalscorer": [],
+      "substitutions": {
+        "home": [],
+        "away": []
+      },
+      "cards": [],
+      "lineup": {
+        "home": {
+          "starting_lineups": [],
+          "substitutes": [],
+          "coach": [
+            {
+              "lineup_player": "P. Jewell",
+              "lineup_number": "",
+              "lineup_position": "",
+              "player_key": "283062066"
+            }
+          ],
+          "missing_players": []
+        },
+        "away": {
+          "starting_lineups": [],
+          "substitutes": [],
+          "coach": [
+            {
+              "lineup_player": "S. Watson",
+              "lineup_number": "",
+              "lineup_position": "",
+              "player_key": "1064695608"
+            }
+          ],
+          "missing_players": []
+        }
+      },
+      "statistics": [],
+      "statistics_1half": []
+    },
+    {
+      "match_id": "389752",
+      "country_id": "3",
+      "country_name": "France",
+      "league_id": "168",
+      "league_name": "Ligue 1",
+      "match_date": "2025-01-26",
+      "match_status": "",
+      "match_time": "00:00",
+      "match_hometeam_id": "3821",
+      "match_hometeam_name": "Lens",
+      "match_hometeam_score": "",
+      "match_awayteam_name": "Angers",
+      "match_awayteam_id": "3827",
+      "match_awayteam_score": "",
+      "match_hometeam_halftime_score": "",
+      "match_awayteam_halftime_score": "",
+      "match_hometeam_extra_score": "",
+      "match_awayteam_extra_score": "",
+      "match_hometeam_penalty_score": "",
+      "match_awayteam_penalty_score": "",
+      "match_hometeam_ft_score": "",
+      "match_awayteam_ft_score": "",
+      "match_hometeam_system": "",
+      "match_awayteam_system": "",
+      "match_live": "0",
+      "match_round": "19",
+      "match_stadium": "Stade Bollaert-Delelis (Lens)",
+      "match_referee": "",
+      "team_home_badge": "https://apiv3.apifootball.com/badges/3821_lens.jpg",
+      "team_away_badge": "https://apiv3.apifootball.com/badges/3827_angers.jpg",
+      "league_logo": "https://apiv3.apifootball.com/badges/logo_leagues/168_ligue-1.png",
+      "country_logo": "https://apiv3.apifootball.com/badges/logo_country/3_france.png",
+      "league_year": "2024/2025",
+      "fk_stage_key": "279",
+      "stage_name": "Current",
+      "goalscorer": [],
+      "substitutions": {
+        "home": [],
+        "away": []
+      },
+      "cards": [],
+      "lineup": {
+        "home": {
+          "starting_lineups": [],
+          "substitutes": [],
+          "coach": [
+            {
+              "lineup_player": "J. Kennedy",
+              "lineup_number": "",
+              "lineup_position": "",
+              "player_key": "2168432519"
+            }
+          ],
+          "missing_players": []
+        },
+        "away": {
+          "starting_lineups": [],
+          "substitutes": [],
+          "coach": [
+            {
+              "lineup_player": "Roberto Martínez",
+              "lineup_number": "",
+              "lineup_position": "",
+              "player_key": "351187002"
+            }
+          ],
+          "missing_players": []
+        }
+      },
+      "statistics": [],
+      "statistics_1half": []
+    },
+    {
+      "match_id": "389751",
+      "country_id": "3",
+      "country_name": "France",
+      "league_id": "168",
+      "league_name": "Ligue 1",
+      "match_date": "2025-01-26",
+      "match_status": "",
+      "match_time": "00:00",
+      "match_hometeam_id": "3797",
+      "match_hometeam_name": "Auxerre",
+      "match_hometeam_score": "",
+      "match_awayteam_name": "Saint-Etienne",
+      "match_awayteam_id": "3826",
+      "match_awayteam_score": "",
+      "match_hometeam_halftime_score": "",
+      "match_awayteam_halftime_score": "",
+      "match_hometeam_extra_score": "",
+      "match_awayteam_extra_score": "",
+      "match_hometeam_penalty_score": "",
+      "match_awayteam_penalty_score": "",
+      "match_hometeam_ft_score": "",
+      "match_awayteam_ft_score": "",
+      "match_hometeam_system": "",
+      "match_awayteam_system": "",
+      "match_live": "0",
+      "match_round": "19",
+      "match_stadium": "Stade de l'Abbé Deschamps (Auxerre)",
+      "match_referee": "",
+      "team_home_badge": "https://apiv3.apifootball.com/badges/3797_auxerre.jpg",
+      "team_away_badge": "https://apiv3.apifootball.com/badges/3826_saint-etienne.jpg",
+      "league_logo": "https://apiv3.apifootball.com/badges/logo_leagues/168_ligue-1.png",
+      "country_logo": "https://apiv3.apifootball.com/badges/logo_country/3_france.png",
+      "league_year": "2024/2025",
+      "fk_stage_key": "279",
+      "stage_name": "Current",
+      "goalscorer": [],
+      "substitutions": {
+        "home": [],
+        "away": []
+      },
+      "cards": [],
+      "lineup": {
+        "home": {
+          "starting_lineups": [],
+          "substitutes": [],
+          "coach": [
+            {
+              "lineup_player": "D. Stewart",
+              "lineup_number": "",
+              "lineup_position": "",
+              "player_key": "2542554360"
+            }
+          ],
+          "missing_players": []
+        },
+        "away": {
+          "starting_lineups": [],
+          "substitutes": [],
+          "coach": [
+            {
+              "lineup_player": "O. Coyle",
+              "lineup_number": "",
+              "lineup_position": "",
+              "player_key": "3392530806"
+            }
+          ],
+          "missing_players": []
+        }
+      },
+      "statistics": [],
+      "statistics_1half": []
+    },
+    {
+      "match_id": "389750",
+      "country_id": "3",
+      "country_name": "France",
+      "league_id": "168",
+      "league_name": "Ligue 1",
+      "match_date": "2025-01-26",
+      "match_status": "",
+      "match_time": "00:00",
+      "match_hometeam_id": "3804",
+      "match_hometeam_name": "Le Havre",
+      "match_hometeam_score": "",
+      "match_awayteam_name": "Brest",
+      "match_awayteam_id": "3823",
+      "match_awayteam_score": "",
+      "match_hometeam_halftime_score": "",
+      "match_awayteam_halftime_score": "",
+      "match_hometeam_extra_score": "",
+      "match_awayteam_extra_score": "",
+      "match_hometeam_penalty_score": "",
+      "match_awayteam_penalty_score": "",
+      "match_hometeam_ft_score": "",
+      "match_awayteam_ft_score": "",
+      "match_hometeam_system": "",
+      "match_awayteam_system": "",
+      "match_live": "0",
+      "match_round": "19",
+      "match_stadium": "Stade Océane (Le Havre)",
+      "match_referee": "",
+      "team_home_badge": "https://apiv3.apifootball.com/badges/3804_le-havre.jpg",
+      "team_away_badge": "https://apiv3.apifootball.com/badges/3823_brest.jpg",
+      "league_logo": "https://apiv3.apifootball.com/badges/logo_leagues/168_ligue-1.png",
+      "country_logo": "https://apiv3.apifootball.com/badges/logo_country/3_france.png",
+      "league_year": "2024/2025",
+      "fk_stage_key": "279",
+      "stage_name": "Current",
+      "goalscorer": [],
+      "substitutions": {
+        "home": [],
+        "away": []
+      },
+      "cards": [],
+      "lineup": {
+        "home": {
+          "starting_lineups": [],
+          "substitutes": [],
+          "coach": [
+            {
+              "lineup_player": "C. Morgan",
+              "lineup_number": "",
+              "lineup_position": "",
+              "player_key": "2677347447"
+            }
+          ],
+          "missing_players": []
+        },
+        "away": {
+          "starting_lineups": [],
+          "substitutes": [],
+          "coach": [
+            {
+              "lineup_player": "S. Coppell",
+              "lineup_number": "",
+              "lineup_position": "",
+              "player_key": "1852724111"
+            }
+          ],
+          "missing_players": []
+        }
+      },
+      "statistics": [],
+      "statistics_1half": []
+    },
+    {
+      "match_id": "389749",
+      "country_id": "3",
+      "country_name": "France",
+      "league_id": "168",
+      "league_name": "Ligue 1",
+      "match_date": "2025-01-26",
+      "match_status": "",
+      "match_time": "00:00",
+      "match_hometeam_id": "3794",
+      "match_hometeam_name": "Toulouse",
+      "match_hometeam_score": "",
+      "match_awayteam_name": "Montpellier",
+      "match_awayteam_id": "3819",
+      "match_awayteam_score": "",
+      "match_hometeam_halftime_score": "",
+      "match_awayteam_halftime_score": "",
+      "match_hometeam_extra_score": "",
+      "match_awayteam_extra_score": "",
+      "match_hometeam_penalty_score": "",
+      "match_awayteam_penalty_score": "",
+      "match_hometeam_ft_score": "",
+      "match_awayteam_ft_score": "",
+      "match_hometeam_system": "",
+      "match_awayteam_system": "",
+      "match_live": "0",
+      "match_round": "19",
+      "match_stadium": "Stadium de Toulouse (Toulouse)",
+      "match_referee": "",
+      "team_home_badge": "https://apiv3.apifootball.com/badges/3794_toulouse.jpg",
+      "team_away_badge": "https://apiv3.apifootball.com/badges/3819_montpellier.jpg",
+      "league_logo": "https://apiv3.apifootball.com/badges/logo_leagues/168_ligue-1.png",
+      "country_logo": "https://apiv3.apifootball.com/badges/logo_country/3_france.png",
+      "league_year": "2024/2025",
+      "fk_stage_key": "279",
+      "stage_name": "Current",
+      "goalscorer": [],
+      "substitutions": {
+        "home": [],
+        "away": []
+      },
+      "cards": [],
+      "lineup": {
+        "home": {
+          "starting_lineups": [],
+          "substitutes": [],
+          "coach": [
+            {
+              "lineup_player": "J. Poortvliet",
+              "lineup_number": "",
+              "lineup_position": "",
+              "player_key": "1174822932"
+            }
+          ],
+          "missing_players": []
+        },
+        "away": {
+          "starting_lineups": [],
+          "substitutes": [],
+          "coach": [
+            {
+              "lineup_player": "M. McCarthy",
+              "lineup_number": "",
+              "lineup_position": "",
+              "player_key": "1676247212"
+            }
+          ],
+          "missing_players": []
+        }
+      },
+      "statistics": [],
+      "statistics_1half": []
+    },
+    {
+      "match_id": "389748",
+      "country_id": "3",
+      "country_name": "France",
+      "league_id": "168",
+      "league_name": "Ligue 1",
+      "match_date": "2025-01-26",
+      "match_status": "",
+      "match_time": "00:00",
+      "match_hometeam_id": "3817",
+      "match_hometeam_name": "Monaco",
+      "match_hometeam_score": "",
+      "match_awayteam_name": "Rennes",
+      "match_awayteam_id": "91",
+      "match_awayteam_score": "",
+      "match_hometeam_halftime_score": "",
+      "match_awayteam_halftime_score": "",
+      "match_hometeam_extra_score": "",
+      "match_awayteam_extra_score": "",
+      "match_hometeam_penalty_score": "",
+      "match_awayteam_penalty_score": "",
+      "match_hometeam_ft_score": "",
+      "match_awayteam_ft_score": "",
+      "match_hometeam_system": "",
+      "match_awayteam_system": "",
+      "match_live": "0",
+      "match_round": "19",
+      "match_stadium": "Stade Louis-II (Monaco)",
+      "match_referee": "",
+      "team_home_badge": "https://apiv3.apifootball.com/badges/3817_monaco.jpg",
+      "team_away_badge": "https://apiv3.apifootball.com/badges/91_rennes.jpg",
+      "league_logo": "https://apiv3.apifootball.com/badges/logo_leagues/168_ligue-1.png",
+      "country_logo": "https://apiv3.apifootball.com/badges/logo_country/3_france.png",
+      "league_year": "2024/2025",
+      "fk_stage_key": "279",
+      "stage_name": "Current",
+      "goalscorer": [],
+      "substitutions": {
+        "home": [],
+        "away": []
+      },
+      "cards": [],
+      "lineup": {
+        "home": {
+          "starting_lineups": [],
+          "substitutes": [],
+          "coach": [
+            {
+              "lineup_player": "Roberto Martínez",
+              "lineup_number": "",
+              "lineup_position": "",
+              "player_key": "351187002"
+            }
+          ],
+          "missing_players": []
+        },
+        "away": {
+          "starting_lineups": [],
+          "substitutes": [],
+          "coach": [
+            {
+              "lineup_player": "L. Bromby",
+              "lineup_number": "",
+              "lineup_position": "",
+              "player_key": "291306686"
+            }
+          ],
+          "missing_players": []
+        }
+      },
+      "statistics": [],
+      "statistics_1half": []
+    },
+    {
+      "match_id": "389747",
+      "country_id": "3",
+      "country_name": "France",
+      "league_id": "168",
+      "league_name": "Ligue 1",
+      "match_date": "2025-01-26",
+      "match_status": "",
+      "match_time": "00:00",
+      "match_hometeam_id": "3820",
+      "match_hometeam_name": "Nantes",
+      "match_hometeam_score": "",
+      "match_awayteam_name": "Lyon",
+      "match_awayteam_id": "3815",
+      "match_awayteam_score": "",
+      "match_hometeam_halftime_score": "",
+      "match_awayteam_halftime_score": "",
+      "match_hometeam_extra_score": "",
+      "match_awayteam_extra_score": "",
+      "match_hometeam_penalty_score": "",
+      "match_awayteam_penalty_score": "",
+      "match_hometeam_ft_score": "",
+      "match_awayteam_ft_score": "",
+      "match_hometeam_system": "",
+      "match_awayteam_system": "",
+      "match_live": "0",
+      "match_round": "19",
+      "match_stadium": "Stade de la Beaujoire - Louis Fonteneau (Nantes)",
+      "match_referee": "",
+      "team_home_badge": "https://apiv3.apifootball.com/badges/3820_nantes.jpg",
+      "team_away_badge": "https://apiv3.apifootball.com/badges/3815_lyon.jpg",
+      "league_logo": "https://apiv3.apifootball.com/badges/logo_leagues/168_ligue-1.png",
+      "country_logo": "https://apiv3.apifootball.com/badges/logo_country/3_france.png",
+      "league_year": "2024/2025",
+      "fk_stage_key": "279",
+      "stage_name": "Current",
+      "goalscorer": [],
+      "substitutions": {
+        "home": [],
+        "away": []
+      },
+      "cards": [],
+      "lineup": {
+        "home": {
+          "starting_lineups": [],
+          "substitutes": [],
+          "coach": [
+            {
+              "lineup_player": "J. Poortvliet",
+              "lineup_number": "",
+              "lineup_position": "",
+              "player_key": "1174822932"
+            }
+          ],
+          "missing_players": []
+        },
+        "away": {
+          "starting_lineups": [],
+          "substitutes": [],
+          "coach": [
+            {
+              "lineup_player": "J. McCombe",
+              "lineup_number": "",
+              "lineup_position": "",
+              "player_key": "2475406678"
+            }
+          ],
+          "missing_players": []
+        }
+      },
+      "statistics": [],
+      "statistics_1half": []
+    },
+    {
+      "match_id": "389755",
+      "country_id": "3",
+      "country_name": "France",
+      "league_id": "168",
+      "league_name": "Ligue 1",
+      "match_date": "2025-02-02",
+      "match_status": "",
+      "match_time": "00:00",
+      "match_hometeam_id": "83",
+      "match_hometeam_name": "Marseille",
+      "match_hometeam_score": "",
+      "match_awayteam_name": "Lyon",
+      "match_awayteam_id": "3815",
+      "match_awayteam_score": "",
+      "match_hometeam_halftime_score": "",
+      "match_awayteam_halftime_score": "",
+      "match_hometeam_extra_score": "",
+      "match_awayteam_extra_score": "",
+      "match_hometeam_penalty_score": "",
+      "match_awayteam_penalty_score": "",
+      "match_hometeam_ft_score": "",
+      "match_awayteam_ft_score": "",
+      "match_hometeam_system": "",
+      "match_awayteam_system": "",
+      "match_live": "0",
+      "match_round": "20",
+      "match_stadium": "Orange Vélodrome (Marseille)",
+      "match_referee": "",
+      "team_home_badge": "https://apiv3.apifootball.com/badges/83_marseille.jpg",
+      "team_away_badge": "https://apiv3.apifootball.com/badges/3815_lyon.jpg",
+      "league_logo": "https://apiv3.apifootball.com/badges/logo_leagues/168_ligue-1.png",
+      "country_logo": "https://apiv3.apifootball.com/badges/logo_country/3_france.png",
+      "league_year": "2024/2025",
+      "fk_stage_key": "279",
+      "stage_name": "Current",
+      "goalscorer": [],
+      "substitutions": {
+        "home": [],
+        "away": []
+      },
+      "cards": [],
+      "lineup": {
+        "home": {
+          "starting_lineups": [],
+          "substitutes": [],
+          "coach": [
+            {
+              "lineup_player": "G. Rae",
+              "lineup_number": "",
+              "lineup_position": "",
+              "player_key": "126564518"
+            }
+          ],
+          "missing_players": []
+        },
+        "away": {
+          "starting_lineups": [],
+          "substitutes": [],
+          "coach": [
+            {
+              "lineup_player": "N. Warnock",
+              "lineup_number": "",
+              "lineup_position": "",
+              "player_key": "197196988"
+            }
+          ],
+          "missing_players": []
+        }
+      },
+      "statistics": [],
+      "statistics_1half": []
+    },
+    {
+      "match_id": "389756",
+      "country_id": "3",
+      "country_name": "France",
+      "league_id": "168",
+      "league_name": "Ligue 1",
+      "match_date": "2025-02-02",
+      "match_status": "",
+      "match_time": "00:00",
+      "match_hometeam_id": "3823",
+      "match_hometeam_name": "Brest",
+      "match_hometeam_score": "",
+      "match_awayteam_name": "PSG",
+      "match_awayteam_id": "100",
+      "match_awayteam_score": "",
+      "match_hometeam_halftime_score": "",
+      "match_awayteam_halftime_score": "",
+      "match_hometeam_extra_score": "",
+      "match_awayteam_extra_score": "",
+      "match_hometeam_penalty_score": "",
+      "match_awayteam_penalty_score": "",
+      "match_hometeam_ft_score": "",
+      "match_awayteam_ft_score": "",
+      "match_hometeam_system": "",
+      "match_awayteam_system": "",
+      "match_live": "0",
+      "match_round": "20",
+      "match_stadium": "Stade Francis-Le Blé (Brest)",
+      "match_referee": "",
+      "team_home_badge": "https://apiv3.apifootball.com/badges/3823_brest.jpg",
+      "team_away_badge": "https://apiv3.apifootball.com/badges/100_psg.jpg",
+      "league_logo": "https://apiv3.apifootball.com/badges/logo_leagues/168_ligue-1.png",
+      "country_logo": "https://apiv3.apifootball.com/badges/logo_country/3_france.png",
+      "league_year": "2024/2025",
+      "fk_stage_key": "279",
+      "stage_name": "Current",
+      "goalscorer": [],
+      "substitutions": {
+        "home": [],
+        "away": []
+      },
+      "cards": [],
+      "lineup": {
+        "home": {
+          "starting_lineups": [],
+          "substitutes": [],
+          "coach": [
+            {
+              "lineup_player": "J. McCombe",
+              "lineup_number": "",
+              "lineup_position": "",
+              "player_key": "2475406678"
+            }
+          ],
+          "missing_players": []
+        },
+        "away": {
+          "starting_lineups": [],
+          "substitutes": [],
+          "coach": [],
+          "missing_players": []
+        }
+      },
+      "statistics": [],
+      "statistics_1half": []
+    },
+    {
+      "match_id": "389757",
+      "country_id": "3",
+      "country_name": "France",
+      "league_id": "168",
+      "league_name": "Ligue 1",
+      "match_date": "2025-02-02",
+      "match_status": "",
+      "match_time": "00:00",
+      "match_hometeam_id": "3819",
+      "match_hometeam_name": "Montpellier",
+      "match_hometeam_score": "",
+      "match_awayteam_name": "Lens",
+      "match_awayteam_id": "3821",
+      "match_awayteam_score": "",
+      "match_hometeam_halftime_score": "",
+      "match_awayteam_halftime_score": "",
+      "match_hometeam_extra_score": "",
+      "match_awayteam_extra_score": "",
+      "match_hometeam_penalty_score": "",
+      "match_awayteam_penalty_score": "",
+      "match_hometeam_ft_score": "",
+      "match_awayteam_ft_score": "",
+      "match_hometeam_system": "",
+      "match_awayteam_system": "",
+      "match_live": "0",
+      "match_round": "20",
+      "match_stadium": "Stade de la Mosson-Mondial 98 (Montpellier)",
+      "match_referee": "",
+      "team_home_badge": "https://apiv3.apifootball.com/badges/3819_montpellier.jpg",
+      "team_away_badge": "https://apiv3.apifootball.com/badges/3821_lens.jpg",
+      "league_logo": "https://apiv3.apifootball.com/badges/logo_leagues/168_ligue-1.png",
+      "country_logo": "https://apiv3.apifootball.com/badges/logo_country/3_france.png",
+      "league_year": "2024/2025",
+      "fk_stage_key": "279",
+      "stage_name": "Current",
+      "goalscorer": [],
+      "substitutions": {
+        "home": [],
+        "away": []
+      },
+      "cards": [],
+      "lineup": {
+        "home": {
+          "starting_lineups": [],
+          "substitutes": [],
+          "coach": [
+            {
+              "lineup_player": "A. McLeish",
+              "lineup_number": "",
+              "lineup_position": "",
+              "player_key": "2219945387"
+            }
+          ],
+          "missing_players": []
+        },
+        "away": {
+          "starting_lineups": [],
+          "substitutes": [],
+          "coach": [
+            {
+              "lineup_player": "A. Pardew",
+              "lineup_number": "",
+              "lineup_position": "",
+              "player_key": "1742217124"
+            }
+          ],
+          "missing_players": []
+        }
+      },
+      "statistics": [],
+      "statistics_1half": []
+    },
+    {
+      "match_id": "389758",
+      "country_id": "3",
+      "country_name": "France",
+      "league_id": "168",
+      "league_name": "Ligue 1",
+      "match_date": "2025-02-02",
+      "match_status": "",
+      "match_time": "00:00",
+      "match_hometeam_id": "160",
+      "match_hometeam_name": "Lille",
+      "match_hometeam_score": "",
+      "match_awayteam_name": "Saint-Etienne",
+      "match_awayteam_id": "3826",
+      "match_awayteam_score": "",
+      "match_hometeam_halftime_score": "",
+      "match_awayteam_halftime_score": "",
+      "match_hometeam_extra_score": "",
+      "match_awayteam_extra_score": "",
+      "match_hometeam_penalty_score": "",
+      "match_awayteam_penalty_score": "",
+      "match_hometeam_ft_score": "",
+      "match_awayteam_ft_score": "",
+      "match_hometeam_system": "",
+      "match_awayteam_system": "",
+      "match_live": "0",
+      "match_round": "20",
+      "match_stadium": "Decathlon Arena - Stade Pierre-Mauroy (Villeneuve d'Ascq)",
+      "match_referee": "",
+      "team_home_badge": "https://apiv3.apifootball.com/badges/160_lille.jpg",
+      "team_away_badge": "https://apiv3.apifootball.com/badges/3826_saint-etienne.jpg",
+      "league_logo": "https://apiv3.apifootball.com/badges/logo_leagues/168_ligue-1.png",
+      "country_logo": "https://apiv3.apifootball.com/badges/logo_country/3_france.png",
+      "league_year": "2024/2025",
+      "fk_stage_key": "279",
+      "stage_name": "Current",
+      "goalscorer": [],
+      "substitutions": {
+        "home": [],
+        "away": []
+      },
+      "cards": [],
+      "lineup": {
+        "home": {
+          "starting_lineups": [],
+          "substitutes": [],
+          "coach": [
+            {
+              "lineup_player": "D. Moore",
+              "lineup_number": "",
+              "lineup_position": "",
+              "player_key": "1544333995"
+            }
+          ],
+          "missing_players": []
+        },
+        "away": {
+          "starting_lineups": [],
+          "substitutes": [],
+          "coach": [
+            {
+              "lineup_player": "L. Bromby",
+              "lineup_number": "",
+              "lineup_position": "",
+              "player_key": "291306686"
+            }
+          ],
+          "missing_players": []
+        }
+      },
+      "statistics": [],
+      "statistics_1half": []
+    },
+    {
+      "match_id": "389759",
+      "country_id": "3",
+      "country_name": "France",
+      "league_id": "168",
+      "league_name": "Ligue 1",
+      "match_date": "2025-02-02",
+      "match_status": "",
+      "match_time": "00:00",
+      "match_hometeam_id": "182",
+      "match_hometeam_name": "Reims",
+      "match_hometeam_score": "",
+      "match_awayteam_name": "Nantes",
+      "match_awayteam_id": "3820",
+      "match_awayteam_score": "",
+      "match_hometeam_halftime_score": "",
+      "match_awayteam_halftime_score": "",
+      "match_hometeam_extra_score": "",
+      "match_awayteam_extra_score": "",
+      "match_hometeam_penalty_score": "",
+      "match_awayteam_penalty_score": "",
+      "match_hometeam_ft_score": "",
+      "match_awayteam_ft_score": "",
+      "match_hometeam_system": "",
+      "match_awayteam_system": "",
+      "match_live": "0",
+      "match_round": "20",
+      "match_stadium": "Stade Auguste-Delaune (Reims)",
+      "match_referee": "",
+      "team_home_badge": "https://apiv3.apifootball.com/badges/182_reims.jpg",
+      "team_away_badge": "https://apiv3.apifootball.com/badges/3820_nantes.jpg",
+      "league_logo": "https://apiv3.apifootball.com/badges/logo_leagues/168_ligue-1.png",
+      "country_logo": "https://apiv3.apifootball.com/badges/logo_country/3_france.png",
+      "league_year": "2024/2025",
+      "fk_stage_key": "279",
+      "stage_name": "Current",
+      "goalscorer": [],
+      "substitutions": {
+        "home": [],
+        "away": []
+      },
+      "cards": [],
+      "lineup": {
+        "home": {
+          "starting_lineups": [],
+          "substitutes": [],
+          "coach": [
+            {
+              "lineup_player": "S. O'Driscoll",
+              "lineup_number": "",
+              "lineup_position": "",
+              "player_key": "1344354022"
+            }
+          ],
+          "missing_players": []
+        },
+        "away": {
+          "starting_lineups": [],
+          "substitutes": [],
+          "coach": [
+            {
+              "lineup_player": "D. Wright",
+              "lineup_number": "",
+              "lineup_position": "",
+              "player_key": "1780564590"
+            }
+          ],
+          "missing_players": []
+        }
+      },
+      "statistics": [],
+      "statistics_1half": []
+    },
+    {
+      "match_id": "389760",
+      "country_id": "3",
+      "country_name": "France",
+      "league_id": "168",
+      "league_name": "Ligue 1",
+      "match_date": "2025-02-02",
+      "match_status": "",
+      "match_time": "00:00",
+      "match_hometeam_id": "3827",
+      "match_hometeam_name": "Angers",
+      "match_hometeam_score": "",
+      "match_awayteam_name": "Le Havre",
+      "match_awayteam_id": "3804",
+      "match_awayteam_score": "",
+      "match_hometeam_halftime_score": "",
+      "match_awayteam_halftime_score": "",
+      "match_hometeam_extra_score": "",
+      "match_awayteam_extra_score": "",
+      "match_hometeam_penalty_score": "",
+      "match_awayteam_penalty_score": "",
+      "match_hometeam_ft_score": "",
+      "match_awayteam_ft_score": "",
+      "match_hometeam_system": "",
+      "match_awayteam_system": "",
+      "match_live": "0",
+      "match_round": "20",
+      "match_stadium": "Stade Raymond Kopa (Angers)",
+      "match_referee": "",
+      "team_home_badge": "https://apiv3.apifootball.com/badges/3827_angers.jpg",
+      "team_away_badge": "https://apiv3.apifootball.com/badges/3804_le-havre.jpg",
+      "league_logo": "https://apiv3.apifootball.com/badges/logo_leagues/168_ligue-1.png",
+      "country_logo": "https://apiv3.apifootball.com/badges/logo_country/3_france.png",
+      "league_year": "2024/2025",
+      "fk_stage_key": "279",
+      "stage_name": "Current",
+      "goalscorer": [],
+      "substitutions": {
+        "home": [],
+        "away": []
+      },
+      "cards": [],
+      "lineup": {
+        "home": {
+          "starting_lineups": [],
+          "substitutes": [],
+          "coach": [
+            {
+              "lineup_player": "R. Edwards",
+              "lineup_number": "",
+              "lineup_position": "",
+              "player_key": "4079026562"
+            }
+          ],
+          "missing_players": []
+        },
+        "away": {
+          "starting_lineups": [],
+          "substitutes": [],
+          "coach": [
+            {
+              "lineup_player": "S. St. Ledger",
+              "lineup_number": "",
+              "lineup_position": "",
+              "player_key": "720629778"
+            }
+          ],
+          "missing_players": []
+        }
+      },
+      "statistics": [],
+      "statistics_1half": []
+    },
+    {
+      "match_id": "389761",
+      "country_id": "3",
+      "country_name": "France",
+      "league_id": "168",
+      "league_name": "Ligue 1",
+      "match_date": "2025-02-02",
+      "match_status": "",
+      "match_time": "00:00",
+      "match_hometeam_id": "3794",
+      "match_hometeam_name": "Toulouse",
+      "match_hometeam_score": "",
+      "match_awayteam_name": "Nice",
+      "match_awayteam_id": "145",
+      "match_awayteam_score": "",
+      "match_hometeam_halftime_score": "",
+      "match_awayteam_halftime_score": "",
+      "match_hometeam_extra_score": "",
+      "match_awayteam_extra_score": "",
+      "match_hometeam_penalty_score": "",
+      "match_awayteam_penalty_score": "",
+      "match_hometeam_ft_score": "",
+      "match_awayteam_ft_score": "",
+      "match_hometeam_system": "",
+      "match_awayteam_system": "",
+      "match_live": "0",
+      "match_round": "20",
+      "match_stadium": "Stadium de Toulouse (Toulouse)",
+      "match_referee": "",
+      "team_home_badge": "https://apiv3.apifootball.com/badges/3794_toulouse.jpg",
+      "team_away_badge": "https://apiv3.apifootball.com/badges/145_nice.jpg",
+      "league_logo": "https://apiv3.apifootball.com/badges/logo_leagues/168_ligue-1.png",
+      "country_logo": "https://apiv3.apifootball.com/badges/logo_country/3_france.png",
+      "league_year": "2024/2025",
+      "fk_stage_key": "279",
+      "stage_name": "Current",
+      "goalscorer": [],
+      "substitutions": {
+        "home": [],
+        "away": []
+      },
+      "cards": [],
+      "lineup": {
+        "home": {
+          "starting_lineups": [],
+          "substitutes": [],
+          "coach": [
+            {
+              "lineup_player": "Roberto Martínez",
+              "lineup_number": "",
+              "lineup_position": "",
+              "player_key": "351187002"
+            }
+          ],
+          "missing_players": []
+        },
+        "away": {
+          "starting_lineups": [],
+          "substitutes": [],
+          "coach": [
+            {
+              "lineup_player": "A. McLeish",
+              "lineup_number": "",
+              "lineup_position": "",
+              "player_key": "2219945387"
+            }
+          ],
+          "missing_players": []
+        }
+      },
+      "statistics": [],
+      "statistics_1half": []
+    },
+    {
+      "match_id": "389762",
+      "country_id": "3",
+      "country_name": "France",
+      "league_id": "168",
+      "league_name": "Ligue 1",
+      "match_date": "2025-02-02",
+      "match_status": "",
+      "match_time": "00:00",
+      "match_hometeam_id": "91",
+      "match_hometeam_name": "Rennes",
+      "match_hometeam_score": "",
+      "match_awayteam_name": "Strasbourg",
+      "match_awayteam_id": "3818",
+      "match_awayteam_score": "",
+      "match_hometeam_halftime_score": "",
+      "match_awayteam_halftime_score": "",
+      "match_hometeam_extra_score": "",
+      "match_awayteam_extra_score": "",
+      "match_hometeam_penalty_score": "",
+      "match_awayteam_penalty_score": "",
+      "match_hometeam_ft_score": "",
+      "match_awayteam_ft_score": "",
+      "match_hometeam_system": "",
+      "match_awayteam_system": "",
+      "match_live": "0",
+      "match_round": "20",
+      "match_stadium": "Roazhon Park (Rennes)",
+      "match_referee": "",
+      "team_home_badge": "https://apiv3.apifootball.com/badges/91_rennes.jpg",
+      "team_away_badge": "https://apiv3.apifootball.com/badges/3818_strasbourg.jpg",
+      "league_logo": "https://apiv3.apifootball.com/badges/logo_leagues/168_ligue-1.png",
+      "country_logo": "https://apiv3.apifootball.com/badges/logo_country/3_france.png",
+      "league_year": "2024/2025",
+      "fk_stage_key": "279",
+      "stage_name": "Current",
+      "goalscorer": [],
+      "substitutions": {
+        "home": [],
+        "away": []
+      },
+      "cards": [],
+      "lineup": {
+        "home": {
+          "starting_lineups": [],
+          "substitutes": [],
+          "coach": [
+            {
+              "lineup_player": "R. Larrieu",
+              "lineup_number": "",
+              "lineup_position": "",
+              "player_key": "1638058372"
+            }
+          ],
+          "missing_players": []
+        },
+        "away": {
+          "starting_lineups": [],
+          "substitutes": [],
+          "coach": [
+            {
+              "lineup_player": "G. Rae",
+              "lineup_number": "",
+              "lineup_position": "",
+              "player_key": "126564518"
+            }
+          ],
+          "missing_players": []
+        }
+      },
+      "statistics": [],
+      "statistics_1half": []
+    },
+    {
+      "match_id": "389763",
+      "country_id": "3",
+      "country_name": "France",
+      "league_id": "168",
+      "league_name": "Ligue 1",
+      "match_date": "2025-02-02",
+      "match_status": "",
+      "match_time": "00:00",
+      "match_hometeam_id": "3817",
+      "match_hometeam_name": "Monaco",
+      "match_hometeam_score": "",
+      "match_awayteam_name": "Auxerre",
+      "match_awayteam_id": "3797",
+      "match_awayteam_score": "",
+      "match_hometeam_halftime_score": "",
+      "match_awayteam_halftime_score": "",
+      "match_hometeam_extra_score": "",
+      "match_awayteam_extra_score": "",
+      "match_hometeam_penalty_score": "",
+      "match_awayteam_penalty_score": "",
+      "match_hometeam_ft_score": "",
+      "match_awayteam_ft_score": "",
+      "match_hometeam_system": "",
+      "match_awayteam_system": "",
+      "match_live": "0",
+      "match_round": "20",
+      "match_stadium": "Stade Louis-II (Monaco)",
+      "match_referee": "",
+      "team_home_badge": "https://apiv3.apifootball.com/badges/3817_monaco.jpg",
+      "team_away_badge": "https://apiv3.apifootball.com/badges/3797_auxerre.jpg",
+      "league_logo": "https://apiv3.apifootball.com/badges/logo_leagues/168_ligue-1.png",
+      "country_logo": "https://apiv3.apifootball.com/badges/logo_country/3_france.png",
+      "league_year": "2024/2025",
+      "fk_stage_key": "279",
+      "stage_name": "Current",
+      "goalscorer": [],
+      "substitutions": {
+        "home": [],
+        "away": []
+      },
+      "cards": [],
+      "lineup": {
+        "home": {
+          "starting_lineups": [],
+          "substitutes": [],
+          "coach": [
+            {
+              "lineup_player": "M. McCarthy",
+              "lineup_number": "",
+              "lineup_position": "",
+              "player_key": "1676247212"
+            }
+          ],
+          "missing_players": []
+        },
+        "away": {
+          "starting_lineups": [],
+          "substitutes": [],
+          "coach": [
+            {
+              "lineup_player": "R. Edwards",
+              "lineup_number": "",
+              "lineup_position": "",
+              "player_key": "4079026562"
+            }
+          ],
+          "missing_players": []
+        }
+      },
+      "statistics": [],
+      "statistics_1half": []
+    }
+  ]
