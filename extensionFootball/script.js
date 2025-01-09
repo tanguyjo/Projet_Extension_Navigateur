@@ -79,18 +79,16 @@ async function getMatches(url) {
     const parts = date.split("-");
     const formattedDate = `${parts[2]}-${parts[1]}-${parts[0]}`;
     const time = data[index].match_time;
-
     const stadium = data[index].match_stadium;
     const matchround = data[index].match_round;
     const hometeamlogo = data[index].team_home_badge;
     const awayteamlogo = data[index].team_away_badge;
     const apiLigueLogo = data[index].league_logo;
-    // imageLigue.src = apiLigueLogo;
     console.log(hometeam);
     console.log(awayteam);
     console.log(date);
     console.log(awayteamlogo);
-    MatchFixtures = `<p>Journee ${matchround}</p> <p>${hometeam} vs ${awayteam}</p> ${stadium} <br> <img id="logo" src="${hometeamlogo}"></img><img id="logo" src="${awayteamlogo}"></img> <br> Date: ${formattedDate} <br>  heure: ${time}</p>
+    MatchFixtures = `<p>Journee ${matchround}</p> <p>${hometeam} vs ${awayteam}</p> ${stadium} <br> <img id="logo" src="${hometeamlogo}"></img><img id="logo" src="${awayteamlogo}"></img> <br> Date: ${formattedDate} <br>${time}</p>
  <br> <br> <hr> `;
     const container = document.getElementById("container");
 
