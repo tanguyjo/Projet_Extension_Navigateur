@@ -33,23 +33,55 @@ function updateDateTime() {
   }, 1000);
 }
 
+
 updateDateTime();
 function loadtasks() {
-  for (let i = 1; i <= localStorage.length; i++) {
-    list.innerHTML += `<li> ${localStorage.getItem(i)} <br> </li>`;
-  }
+
+  for (let i = 1; i <= localStorage.length; i++) {  
+    console.log(localStorage.getItem(i))
+    let li = document.createElement("li");
+    li.innerHTML +=  localStorage.getItem(i)
+   // console.log(`yes ${i}`)
+    list.appendChild(li);
+    let buttondelete = document.createElement("button");
+    li.appendChild(buttondelete);
+    buttondelete.innerHTML = "\u00d7";
+    buttondelete.dataset.id = localStorage.key(i-1);
+    //console.log(buttondelete.dataset.id)
+    buttondelete.addEventListener("click", () => {
+      //console.log(i)
+    buttondelete.parentElement.remove();
+    localStorage.removeItem(i);
+  })
+ 
+  } console.log(`finished`)
 }
 
 loadtasks();
 // console.log(index);
 const addTask = () => {
   index++;
-
   if (input.value === "") {
     alert("Please enter a task");
     return;
   }
-  list.innerHTML += `<li> ${input.value} </li>`;
+  let li = document.createElement("li");
+  li.innerHTML = input.value;
+  let taskvalue = input.value;
+  list.appendChild(li);
+
+  let buttondelete = document.createElement("button");
+  buttondelete.dataset.id = index
+  li.appendChild(buttondelete);
+  buttondelete.innerHTML = "\u00d7";
+  buttondelete.addEventListener("click", () => {
+  buttondelete.parentElement.remove();  
+  console.log(buttondelete.dataset.id)
+  localStorage.removeItem(buttondelete.dataset.id);
+  })
+
+
+
   localStorage.setItem(index, input.value);
   input.value = "";
 //   console.log(list);
@@ -115,10 +147,10 @@ async function fetchWallpapper() {
     }
     const files = await response.json();
     sessionStorage.setItem("ImageDocs", JSON.stringify(files));
-   let wallpapper = files[2].urls.regular;
-  document.body.style.backgroundImage = `url(${wallpapper})`;
-  document.body.style.backgroundRepeat = "no-repeat"
-  document.body.style.backgroundSize = "100%"
+  //  let wallpapper = files[2].urls.regular;
+  // document.body.style.backgroundImage = `url(${wallpapper})`;
+  // document.body.style.backgroundRepeat = "no-repeat"
+  // document.body.style.backgroundSize = "100%"
 
   }
 
@@ -140,7 +172,7 @@ let wallpapper = backgroundImage[indice].urls.regular;
   document.body.style.backgroundSize = "100%";
 
     
-},1000);}
+},10000)}
 
- //changeImages()
+//  changeImages()
 

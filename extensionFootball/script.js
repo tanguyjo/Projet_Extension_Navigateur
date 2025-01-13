@@ -1,16 +1,37 @@
-let urlLigue1 =
-  "https://apiv3.apifootball.com/?action=get_events&from=2025-01-07&to=2025-02-07&league_id=168&APIkey=d284d4d516f5a639a5ffac5ab172248fb77afbdadae1e0c737b65d76db36f07f";
-let urlPremier =
-  "https://apiv3.apifootball.com/?action=get_events&from=2025-01-07&to=2025-02-07&league_id=152&APIkey=d284d4d516f5a639a5ffac5ab172248fb77afbdadae1e0c737b65d76db36f07f";
-let urlSerieA =
-  "https://apiv3.apifootball.com/?action=get_events&from=2025-01-07&to=2025-02-07&league_id=207&APIkey=d284d4d516f5a639a5ffac5ab172248fb77afbdadae1e0c737b65d76db36f07f";
-let urlBundesligua =
-  "https://apiv3.apifootball.com/?action=get_events&from=2025-01-07&to=2025-02-07&league_id=175&APIkey=d284d4d516f5a639a5ffac5ab172248fb77afbdadae1e0c737b65d76db36f07f";
-let urlLaliga =
-  "https://apiv3.apifootball.com/?action=get_events&from=2025-01-07&to=2025-02-07&league_id=302&APIkey=d284d4d516f5a639a5ffac5ab172248fb77afbdadae1e0c737b65d76db36f07f";
-let urlChampionsLeague =
-  "https://apiv3.apifootball.com/?action=get_events&from=2025-01-07&to=2025-02-07&league_id=3&APIkey=d284d4d516f5a639a5ffac5ab172248fb77afbdadae1e0c737b65d76db36f07f";
+let  now = new Date();
+let date = now.toLocaleDateString();
 
+let newdatesplitted = date.split("/");
+date = newdatesplitted[2] + "-" + newdatesplitted[0] + "-" + newdatesplitted[1];
+console.log(date)
+
+
+let urlLigue1 =
+  `https://apiv3.apifootball.com/?action=get_events&from=${date}&to=2025-02-07&league_id=168&APIkey=d284d4d516f5a639a5ffac5ab172248fb77afbdadae1e0c737b65d76db36f07f`;
+let urlPremier =
+  `https://apiv3.apifootball.com/?action=get_events&from=${date}&to=2025-02-07&league_id=152&APIkey=d284d4d516f5a639a5ffac5ab172248fb77afbdadae1e0c737b65d76db36f07f`;
+let urlSerieA =
+  `https://apiv3.apifootball.com/?action=get_events&from=${date}&to=2025-02-07&league_id=207&APIkey=d284d4d516f5a639a5ffac5ab172248fb77afbdadae1e0c737b65d76db36f07f`;
+let urlBundesligua =
+  `https://apiv3.apifootball.com/?action=get_events&from=${date}&to=2025-02-07&league_id=175&APIkey=d284d4d516f5a639a5ffac5ab172248fb77afbdadae1e0c737b65d76db36f07f`;
+let urlLaliga =
+  `https://apiv3.apifootball.com/?action=get_events&from=${date}&to=2025-02-07&league_id=302&APIkey=d284d4d516f5a639a5ffac5ab172248fb77afbdadae1e0c737b65d76db36f07f`;
+let urlChampionsLeague =
+  `https://apiv3.apifootball.com/?action=get_events&from=${date}&to=2025-02-07&league_id=3&APIkey=d284d4d516f5a639a5ffac5ab172248fb77afbdadae1e0c737b65d76db36f07f`;
+
+  let urlEuropa =
+  `https://apiv3.apifootball.com/?action=get_events&from=${date}&to=2025-02-07&league_id=4&APIkey=d284d4d516f5a639a5ffac5ab172248fb77afbdadae1e0c737b65d76db36f07f`;
+
+  let urlPortugal =
+  `https://apiv3.apifootball.com/?action=get_events&from=${date}&to=2025-02-07&league_id=266&APIkey=d284d4d516f5a639a5ffac5ab172248fb77afbdadae1e0c737b65d76db36f07f`;
+
+  let urlSaudi=
+  `https://apiv3.apifootball.com/?action=get_events&from=${date}&to=2025-02-07&league_id=278&APIkey=d284d4d516f5a639a5ffac5ab172248fb77afbdadae1e0c737b65d76db36f07f`;
+
+
+  let buttonEuropa = document.getElementById("Europa");
+  let buttonPortugal = document.getElementById("Portugal");
+  let buttonSaudi = document.getElementById("Saudi");
 let buttonLigue1 = document.getElementById("ligue1");
 let buttonPremier = document.getElementById("premier");
 let buttonSeriA = document.getElementById("seriA");
@@ -19,6 +40,34 @@ let buttonLaliga = document.getElementById("laLiga");
 let buttonChampions = document.getElementById("champions");
 let imageLigue = document.getElementById("liguelogo");
 
+
+
+buttonEuropa.addEventListener("click", () => {
+  imageLigue.src= "europa.png";
+  imageLigue.style.width = "100px";
+  imageLigue.style.height = "100px";
+  container.innerHTML = "";
+  getMatches(urlEuropa);
+})
+
+buttonPortugal.addEventListener("click", () => {
+  imageLigue.src= "ligaportugal.png";
+  imageLigue.style.width = "130px"; 
+  imageLigue.style.height = "100px";
+  container.innerHTML = "";
+  getMatches(urlPortugal);
+
+})
+
+imageLigue.style.width = "170px";
+imageLigue.style.height = "100px";
+buttonSaudi.addEventListener("click", () => {
+  imageLigue.src= "Saudi.svg";
+  imageLigue.style.width = "170px";
+  imageLigue.style.height = "100px";
+  container.innerHTML = "";
+  getMatches(urlSaudi);
+})
 buttonLigue1.addEventListener("click", () => {
   imageLigue.src = "Ligue1logo.svg";
   container.innerHTML = "";

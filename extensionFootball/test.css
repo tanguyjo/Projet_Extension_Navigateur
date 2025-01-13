@@ -1,59 +1,98 @@
 #container {
- /* light grey background */
- background-color: #d8f2d1;
-  background-size:auto;
-  background-position: center;
-  background-repeat: no-repeat;
-  padding: 10px;
-  border: 10px solid #177901;
-  border-radius: 0px;
-}
-
-body{
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    text-align: center;
-    font-size: larger
-}
-
-h1{
-    text-align: center;
-}
-
-hr{
-    border: 3px solid #000000;
-}
-
-#logo{
-    width: 70px;
-    height: 70px;
-}
-
-html
-{
-    width: 300px;  /* max: 800px */
-    height: 600px; /* max: 600px */
-}
-
-
-.classLigue{
-    width: 70px;
-    height: 70px;
-}
-
-.button{
-    background-color: #177901;
-    border: none;
-    color: white;
-    padding: 10px 20px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    margin: 4px 2px;
-    cursor: pointer;
-    border-radius: 10px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    text-align: center;
-    font-size: larger
-    
-}
+    /* light grey background */
+    background-color: #fff700;
+     background-size:auto;
+     background-position: center;
+     background-repeat: no-repeat;
+     padding: 10px;
+     border: 10px solid #000000;
+     border-radius: 0px;
+   }
+   
+   #header{
+       background-color: #ffffff;
+       background-size:auto;
+       background-position: center;
+       background-repeat: no-repeat;
+       padding: 1px;
+       border: 8px solid #000000;
+       border-radius: 15px;
+   }
+   #containerbutton{
+    /* background-color: #fafafa; */
+    background-size:auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 4px;
+    border: 10px solid #000000;
+    border-radius: 15px;
+   }
+   
+   #containerLigueLOGO{
+       background-color: #ffffff;
+       background-size:auto;
+       background-position: center;
+       background-repeat: no-repeat;
+       padding: 10px;
+       border: 10px solid #000000;
+       border-radius: 15px;
+   }
+   body{
+       font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+       text-align: center;
+       font-size: larger
+   }
+   
+   h1{
+       text-align: center;
+   }
+   
+   hr{
+       border: 3px solid #000000;
+   }
+   
+   #logo{
+       width: 70px;
+       height: 70px;
+   }
+   
+   html
+   {
+       width: 300px;  /* max: 800px */
+       height: 600px; /* max: 600px */
+       margin: 0 auto;
+       background-color: #898989;
+   }
+   
+   
+   .classLigue{
+       width: 70px;
+       height: 70px;
+   }
+   
+   .button{
+       background-color: #161616;
+       border: none;
+       color: white;
+       padding: 10px 20px;
+       text-align: center;
+       text-decoration: none;
+       display: inline-block;
+       font-size: 16px;
+       margin: 4px 2px;
+       cursor: pointer;
+       border-radius: 10px;
+       font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+       text-align: center;
+       font-size: larger
+       
+   }
+   
+   .button:hover {
+     background-color: #545454;
+   }
+   
+   
+   
+   
+   
