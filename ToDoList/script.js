@@ -30,8 +30,15 @@ function updateDateTime() {
     date = now.toLocaleDateString("fr-FR");
     time = now.toLocaleTimeString("fr-FR");
     Datebox.innerHTML = `${date} ${time}`;
-  }, 1000);
-}
+ 
+    if (list.children.length > 0) {
+      list.classList.add('show');  // Show list if it has list items
+    } else {
+      list.classList.remove('show');  // Hide list if no items
+    }
+  
+    
+  }, 100);}
 
 
 updateDateTime();
@@ -63,7 +70,7 @@ function loadTasks() {
     li.innerHTML += task.value;
     list.appendChild(li);
 
-    let buttonDelete = document.createElement("button");
+    let buttonDelete = document.createElement("buttonTask");
     li.appendChild(buttonDelete);
     buttonDelete.innerHTML = "\u00d7"; // Symbole de suppression (×)
     buttonDelete.dataset.id = task.key; // Utiliser la clé de la tâche pour le bouton de suppression
@@ -97,7 +104,7 @@ const addTask = () => {
   list.appendChild(li);
 
   // Créer un bouton de suppression pour chaque tâche
-  let buttonDelete = document.createElement("button");
+  let buttonDelete = document.createElement("buttonTask");
   buttonDelete.dataset.id = taskId; // Utiliser l'identifiant unique pour la suppression
   li.appendChild(buttonDelete);
   buttonDelete.innerHTML = "\u00d7";
@@ -136,7 +143,7 @@ async function weather() {
 //   console.log(forecast.currentConditions.conditions);
   document.getElementById("Weather").innerHTML = `<hr> Lyon Meteo actuelle :
    ${forecast.currentConditions.conditions === undefined ? Meteo[forecast.currentConditions.conditions] : forecast.currentConditions.conditions}
-   <br> Temp : ${forecast.currentConditions.temp} <br> Sunrise : ${
+   <br> Temp : ${forecast.currentConditions.temp} °C <br> Sunrise : ${
     forecast.currentConditions.sunrise
   } <br> Sunset : ${forecast.currentConditions.sunset}`;
   return forecast.currentConditions.conditions;
@@ -167,42 +174,21 @@ document.getElementById('input').addEventListener('keypress', (e) => {
 });
 
 
-async function fetchWallpapper() {
 
-    // Fonction qui va recuperer les donnes de la meteo de la ville 
-    const response = await fetch(apiImageLinks);
-    if (response.status == "400") {
-      // condition que si la ville n'est pas trouver la fonction retourne False
-      return false;
-    }
-    const files = await response.json();
-    sessionStorage.setItem("ImageDocs", JSON.stringify(files));
-  //  let wallpapper = files[2].urls.regular;
-  // document.body.style.backgroundImage = `url(${wallpapper})`;
-  // document.body.style.backgroundRepeat = "no-repeat"
-  // document.body.style.backgroundSize = "100%"
-
-  }
+let wallpapper = ["summer.jpg","winter-optimized.jpg","autumn-optimized.jpg","spring-optimized.jpg"]
+ function changeWeatherImages(){
+    let indice = 0;
+     indice = Math.floor(Math.random() * 3)
+    let intervalImage = setInterval(() => {
+        indice = Math.floor(Math.random() * 3)
+      document.body.style.backgroundImage = `url(${wallpapper[indice]})`;
+      console.log(wallpapper[indice])
+      document.body.style.backgroundRepeat = "no-repeat"
+      document.body.style.backgroundSize = "cover";
+      
+        
+    },1000)}
 
 
-  fetchWallpapper()
-
-function changeImages(){
-let indice = 0;
- indice = Math.floor(Math.random() * 9)
-let intervalImage = setInterval(() => {
-    indice = Math.floor(Math.random() * 9)
-    console.log(indice)
-let ImageJSON = sessionStorage.getItem("ImageDocs") 
-backgroundImage = JSON.parse(ImageJSON)
-let wallpapper = backgroundImage[indice].urls.regular;
-    console.log(wallpapper);
-  document.body.style.backgroundImage = `url(${wallpapper})`;
-  document.body.style.backgroundRepeat = "no-repeat"
-  document.body.style.backgroundSize = "100%";
-
-    
-},10000)}
-
-//  changeImages()
+ changeWeatherImages()
 
