@@ -7,7 +7,7 @@
     "host_permissions": ["<all_urls>"],
     "action": {
     
-      "default_icon": "ligue1.png",
+      "default_icon": "football.png",
       "default_popup": "test.html"
     }
   
