@@ -35,57 +35,87 @@ function updateDateTime() {
 
 
 updateDateTime();
-function loadtasks() {
+// Cette fonction charge les tâches depuis le localStorage
+function loadTasks() {
+  console.log(`started`);
+  console.log(localStorage);
 
-  for (let i = 1; i <= localStorage.length; i++) {  
-    console.log(localStorage.getItem(i))
+  // Récupérer toutes les tâches depuis le localStorage
+  let tasks = [];
+
+  // Parcourir toutes les clés du localStorage et les stocker dans un tableau avec leurs valeurs
+  Object.keys(localStorage).forEach((key) => {
+    tasks.push({
+      key: key,
+      value: localStorage.getItem(key),
+    });
+  });
+
+  // Trier les tâches par leur clé si les clés sont des identifiants uniques (ex: timestamps)
+  tasks.sort((a, b) => a.key - b.key); // Ou ajustez en fonction du format de vos clés
+
+  // Effacer la liste existante pour la remplir avec les tâches actualisées
+  list.innerHTML = ''; // Cela garantit qu'on n'ajoute pas de doublons
+
+  // Affichage des tâches dans l'ordre
+  tasks.forEach((task) => {
     let li = document.createElement("li");
-    li.innerHTML +=  localStorage.getItem(i)
-   // console.log(`yes ${i}`)
+    li.innerHTML += task.value;
     list.appendChild(li);
-    let buttondelete = document.createElement("button");
-    li.appendChild(buttondelete);
-    buttondelete.innerHTML = "\u00d7";
-    buttondelete.dataset.id = localStorage.key(i-1);
-    //console.log(buttondelete.dataset.id)
-    buttondelete.addEventListener("click", () => {
-      //console.log(i)
-    buttondelete.parentElement.remove();
-    localStorage.removeItem(i);
-  })
- 
-  } console.log(`finished`)
+
+    let buttonDelete = document.createElement("button");
+    li.appendChild(buttonDelete);
+    buttonDelete.innerHTML = "\u00d7"; // Symbole de suppression (×)
+    buttonDelete.dataset.id = task.key; // Utiliser la clé de la tâche pour le bouton de suppression
+
+    buttonDelete.addEventListener("click", () => {
+      li.remove(); // Supprime l'élément de la liste affichée
+      localStorage.removeItem(task.key); // Supprime l'élément du localStorage
+    });
+  });
+
+  console.log(`finished`);
 }
 
-loadtasks();
-// console.log(index);
+// Fonction pour ajouter une nouvelle tâche
 const addTask = () => {
-  index++;
-  if (input.value === "") {
+  // Récupérer la valeur du champ d'entrée
+  const taskValue = input.value.trim();
+
+  if (taskValue === "") {
     alert("Please enter a task");
     return;
   }
+
+  // Utiliser un identifiant unique (timestamp) pour chaque tâche
+  const taskId = new Date().getTime().toString(); // Utilisation du timestamp pour un identifiant unique
+  localStorage.setItem(taskId, taskValue); // Stocke la tâche avec l'identifiant unique
+
+  // Créer un élément de liste pour afficher la tâche
   let li = document.createElement("li");
-  li.innerHTML = input.value;
-  let taskvalue = input.value;
+  li.innerHTML = taskValue;
   list.appendChild(li);
 
-  let buttondelete = document.createElement("button");
-  buttondelete.dataset.id = index
-  li.appendChild(buttondelete);
-  buttondelete.innerHTML = "\u00d7";
-  buttondelete.addEventListener("click", () => {
-  buttondelete.parentElement.remove();  
-  console.log(buttondelete.dataset.id)
-  localStorage.removeItem(buttondelete.dataset.id);
-  })
+  // Créer un bouton de suppression pour chaque tâche
+  let buttonDelete = document.createElement("button");
+  buttonDelete.dataset.id = taskId; // Utiliser l'identifiant unique pour la suppression
+  li.appendChild(buttonDelete);
+  buttonDelete.innerHTML = "\u00d7";
 
+  // Ajouter l'événement de suppression
+  buttonDelete.addEventListener("click", () => {
+    li.remove(); // Supprime l'élément de la liste affichée
+    localStorage.removeItem(taskId); // Supprime l'élément du localStorage
+  });
 
-
-  localStorage.setItem(index, input.value);
+  // Effacer la valeur de l'input après l'ajout
   input.value = "";
-//   console.log(list);
+
+  console.log("Task added:", taskValue);
 };
+
+// Charger les tâches dès que la page se charge
+loadTasks();
 
 button.addEventListener("click", addTask);
 // console.log(list);

@@ -110,3 +110,9 @@
   hr{
     border: 2px solid #777777;
   }
+
+  body{
+    font-family: "Poppins", serif;
+    font-weight: 900;
+    font-style: italic;
+  }
