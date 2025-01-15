@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
-    "name": "Extension Ligue 1 ",
+    "name": "Football Extension ",
     "version": "1.0.1",
-    "description": "Match ligue 1",
+    "description": "This browser extension provides a convenient pop-up that shows upcoming Ligue 1 matches along with fixtures from the world's most popular football leagues, including the Champions League, Europa League, La Liga, Bundesliga, Premier League, Liga Portugal, and Serie A. Stay up to date with key football events and easily access match schedules from your favorite leagues right from your browser.",
     "permissions": ["activeTab","scripting"],
     "host_permissions": ["<all_urls>"],
     "action": {

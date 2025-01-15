@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
-    "name": "To-Do List Page",
-    "version": "1",
-    "description": "Remplace la page d'accueil par une application de to-do list.",
+    "name": "Home page",
+    "version": "1.15.25",
+    "description": "This browser extension transforms your new tab page into a personalized, functional homepage. It features a sleek, designed layout with a prominent search bar for easy web navigation. You can stay updated with real-time weather information, and manage your tasks with a to-do list that mimics a charming little notebook. The intuitive design helps you stay organized and informed without leaving your browser.",
     "permissions": ["storage"],
     "chrome_url_overrides": {
       "newtab": "popup.html"

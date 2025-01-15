@@ -205,10 +205,6 @@ li {
 	padding: 0 0 0 1rem;
 }
 
-li:not(:last-child) {
-	/* border-bottom: 1px solid lightblue; */
-}
-
 li:first-child {
 	margin-top: 1rem;
 }
@@ -267,5 +263,9 @@ buttonTask{
   outline: none;
   color: #ff0000;
  
+
+}
+#body{
+ margin-top: -121PX;
 
 }
