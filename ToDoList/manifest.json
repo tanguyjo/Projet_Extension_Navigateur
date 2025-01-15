@@ -11,8 +11,8 @@
       "service_worker": "background.js"
     },
     "action": {
-        "default_icon": "house.png"
-        // ,"default_popup": "popup.html"
+      "default_icon": "house.png"
+    
     }
       
     }
